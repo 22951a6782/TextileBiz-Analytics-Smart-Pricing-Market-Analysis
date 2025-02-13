@@ -1,0 +1,494 @@
+Item Number,Timestamp,Item,Material,Supplier,Location,Season,Cost Price,Sale Price,      MRP,Quality,Availability
+1,10/22/2024 15:20:18,Cotton saree,Cotton,Emco textiles,Jetpur,Summer,300,330,400,Good,Yes
+2,10/22/2024 15:22:35,Blouse piece,Cotton,Shree fabrics,Pali,All time,40,50,70,Good,Yes
+3,10/22/2024 15:24:56,Lungi,Cotton,Shree Ram textiles,Erode,All time,100,120,150,Good,Yes
+4,10/22/2024 15:26:32,Saree,Silk,Sri Lakshmi silks,Surat,Marriage,600,700,900,Good,Yes
+5,10/22/2024 15:28:47,Churidhar,Cotton,Vasanth textiles,Tirupur,All time,250,300,400,Good,Yes
+6,10/22/2024 15:30:05,Bedsheet,Cotton,RR Textiles,Surat,All time,180,210,250,Good,Yes
+7,10/22/2024 15:32:18,Handkerchief,Cotton,Sai Ram fabrics,Tirupur,All time,20,25,40,Good,Yes
+8,10/22/2024 15:34:06,Saree,Chiffon,Ravi textiles,Surat,All time,400,450,600,Good,Yes
+9,10/22/2024 15:36:42,Pillow cover,Cotton,RSN textiles,Erode,All time,30,40,50,Good,Yes
+10,10/22/2024 15:38:54,Shirt,Cotton,Sri Velavan textiles,Erode,All time,200,230,300,Good,Yes
+11,10/22/2024 15:41:12,Blouse,Cotton,Sathya textiles,Pali,All time,70,80,100,Good,Yes
+12,10/22/2024 15:43:25,Kurti,Rayon,Swastik textiles,Jaipur,Winter,320,350,450,Good,Yes
+13,10/22/2024 15:45:18,Pajamas,Cotton,Vimal textiles,Ahmedabad,All time,150,170,200,Good,Yes
+14,10/22/2024 15:47:03,Skirt,Silk,Amrit textiles,Surat,Summer,420,470,550,Good,Yes
+15,10/22/2024 15:48:59,Bedsheet,Linen,Sadhna textiles,Jaipur,All time,250,280,350,Good,Yes
+16,10/22/2024 15:51:01,Towel,Cotton,Sri textiles,Karur,All time,100,110,150,Good,Yes
+17,10/22/2024 15:52:43,Dupatta,Georgette,Rajesh textiles,Pali,Summer,180,210,300,Good,Yes
+18,10/22/2024 15:54:18,Saree,Cotton,Amba textiles,Bhagalpur,Winter,300,340,450,Good,Yes
+19,10/22/2024 15:56:05,Nighty,Silk,Manav textiles,Surat,All time,400,450,600,Good,Yes
+20,10/22/2024 15:58:22,T-shirt,Cotton,Sri Velavan textiles,Erode,All time,220,250,300,Good,Yes
+21,10/22/2024 16:00:18,Scarf,Wool,Sharma textiles,Ludhiana,Winter,150,180,220,Good,Yes
+22,10/22/2024 16:02:45,Suit,Linen,Shree fabrics,Surat,All time,500,550,700,Good,Yes
+23,10/22/2024 16:04:22,Shawl,Pashmina,Sri Kashmir Handlooms,Srinagar,Winter,1000,1200,1500,Good,Yes
+24,10/22/2024 16:06:30,Dupatta,Chiffon,Om textiles,Jaipur,All time,180,220,300,Good,Yes
+25,10/22/2024 16:08:05,Socks,Wool,RR textiles,Ludhiana,Winter,50,60,80,Good,Yes
+26,10/22/2024 16:10:14,Saree,Silk,Balaji textiles,Surat,Marriage,650,700,900,Good,Yes
+27,10/22/2024 16:12:38,Jeans,Denim,Denim World,Bangalore,All time,400,450,600,Good,Yes
+28,10/22/2024 16:14:52,Kurta,Cotton,Swastik textiles,Jaipur,Summer,320,350,450,Good,Yes
+29,10/22/2024 16:16:45,Jacket,Leather,Leather Craft India,Kanpur,Winter,1500,1700,2000,Good,Yes
+30,10/22/2024 16:18:30,Towel,Cotton,Sri textiles,Karur,All time,100,120,150,Good,Yes
+31,10/22/2024 16:20:18,Bedsheet,Cotton,RR Textiles,Surat,All time,180,220,280,Good,Yes
+32,10/22/2024 16:22:00,Blouse,Cotton,Shree fabrics,Pali,All time,70,90,120,Good,Yes
+33,10/22/2024 16:24:05,Skirt,Linen,Royal Fabrics,Ahmedabad,Summer,200,230,260,Good,Yes
+41,10/22/2024 16:40:25,Kurta,Cotton,Vasanth Textiles,Tirupur,Summer,320,360,450,Good,Yes
+42,10/22/2024 16:42:10,Bedsheet,Linen,Sadhna Textiles,Jaipur,All time,250,280,350,Good,Yes
+43,10/22/2024 16:44:05,T-shirt,Cotton,Sri Velavan Textiles,Erode,All time,220,260,300,Good,Yes
+44,10/22/2024 16:46:12,Pajamas,Rayon,Vimal Textiles,Ahmedabad,All time,170,200,250,Good,Yes
+45,10/22/2024 16:48:25,Dupatta,Silk,Balaji Textiles,Surat,All time,280,320,400,Good,Yes
+46,10/22/2024 16:50:38,Scarf,Cotton,RR Textiles,Surat,Summer,120,150,200,Good,Yes
+47,10/22/2024 16:52:52,Nighty,Silk,Manav Textiles,Surat,All time,400,450,600,Good,Yes
+48,10/22/2024 16:54:39,Skirt,Chiffon,Ravi Textiles,Surat,All time,300,340,420,Good,Yes
+49,10/22/2024 16:56:30,Blouse,Cotton,Shree Fabrics,Pali,All time,80,100,120,Good,Yes
+50,10/22/2024 16:58:40,Lungi,Cotton,Shree Ram Textiles,Erode,All time,100,130,160,Good,Yes
+51,10/22/2024 17:00:20,Dupatta,Georgette,Om Textiles,Jaipur,Summer,180,220,300,Good,Yes
+52,10/22/2024 17:02:15,Saree,Chiffon,Ravi Textiles,Surat,All time,400,450,600,Good,Yes
+53,10/22/2024 17:04:10,Pillow cover,Cotton,RSN Textiles,Erode,All time,30,40,60,Good,Yes
+54,10/22/2024 17:06:22,Shirt,Cotton,Sri Velavan Textiles,Erode,All time,200,230,280,Good,Yes
+55,10/22/2024 17:08:35,Kurta,Rayon,Swastik Textiles,Jaipur,Summer,300,340,400,Good,Yes
+56,10/22/2024 17:10:55,Pajamas,Linen,Vimal Textiles,Ahmedabad,All time,200,230,280,Good,Yes
+57,10/22/2024 17:12:30,Nighty,Cotton,Manav Textiles,Surat,All time,350,400,500,Good,Yes
+58,10/22/2024 17:14:12,Bedsheet,Cotton,RR Textiles,Surat,All time,200,240,300,Good,Yes
+59,10/22/2024 17:16:30,Saree,Silk,Balaji Textiles,Surat,Marriage,600,650,850,Good,Yes
+60,10/22/2024 17:18:40,Handkerchief,Cotton,Sai Ram Fabrics,Tirupur,All time,20,30,40,Good,Yes
+61,10/22/2024 17:20:15,T-shirt,Cotton,Sri Velavan Textiles,Erode,All time,220,250,300,Good,Yes
+62,10/22/2024 17:22:30,Pajamas,Rayon,Vimal Textiles,Ahmedabad,All time,160,180,250,Good,Yes
+63,10/22/2024 17:24:10,Saree,Silk,Emco Textiles,Jetpur,Marriage,700,750,950,Good,Yes
+64,10/22/2024 17:26:05,Lungi,Cotton,Shree Ram Textiles,Erode,All time,100,120,150,Good,Yes
+65,10/22/2024 17:28:20,Bedsheet,Cotton,RR Textiles,Surat,All time,180,210,250,Good,Yes
+66,10/22/2024 17:30:40,Saree,Silk,Sri Lakshmi Silks,Surat,Marriage,650,700,900,Good,Yes
+67,10/22/2024 17:32:12,Blouse,Cotton,Sathya Textiles,Pali,All time,70,90,110,Good,Yes
+68,10/22/2024 17:34:05,Pillow cover,Cotton,RSN Textiles,Erode,All time,30,40,60,Good,Yes
+69,10/22/2024 17:36:22,Shirt,Cotton,Sri Velavan Textiles,Erode,All time,200,220,280,Good,Yes
+70,10/22/2024 17:38:35,Blouse,Silk,Shree Fabrics,Pali,All time,120,140,180,Good,Yes
+71,10/22/2024 17:40:18,Kurta,Cotton,Vasanth Textiles,Tirupur,Summer,320,360,450,Good,Yes
+72,10/22/2024 17:42:05,Skirt,Linen,Royal Fabrics,Ahmedabad,Summer,220,250,300,Good,Yes
+73,10/22/2024 17:44:20,Saree,Chiffon,Ravi Textiles,Surat,All time,400,450,600,Good,Yes
+74,10/22/2024 17:46:10,Dupatta,Silk,Balaji Textiles,Surat,All time,280,320,400,Good,Yes
+75,10/22/2024 17:48:25,Lungi,Cotton,Shree Ram Textiles,Erode,All time,100,130,150,Good,Yes
+76,10/22/2024 17:50:30,Handkerchief,Cotton,Sai Ram Fabrics,Tirupur,All time,20,25,40,Good,Yes
+77,10/22/2024 17:52:12,Towel,Cotton,Sri Textiles,Karur,All time,100,120,150,Good,Yes
+78,10/22/2024 17:54:05,Skirt,Rayon,Royal Fabrics,Ahmedabad,Summer,240,280,350,Good,Yes
+79,10/22/2024 17:56:20,Kurta,Linen,Swastik Textiles,Jaipur,Summer,300,340,450,Good,Yes
+80,10/22/2024 17:58:30,Pajamas,Cotton,Vimal Textiles,Ahmedabad,All time,150,170,200,Good,Yes
+81,10/22/2024 18:00:15,Bedsheet,Cotton,RR Textiles,Surat,All time,180,210,250,Good,Yes
+82,10/22/2024 18:02:20,Saree,Silk,Sri Lakshmi Silks,Surat,Marriage,700,750,900,Good,Yes
+83,10/22/2024 18:04:10,Dupatta,Cotton,Om Textiles,Jaipur,Summer,200,240,300,Good,Yes
+84,10/22/2024 18:06:22,Shirt,Linen,Sri Velavan Textiles,Erode,All time,250,280,350,Good,Yes
+85,10/22/2024 18:08:05,Pillow cover,Cotton,RSN Textiles,Erode,All time,40,50,70,Good,Yes
+86,10/22/2024 18:10:15,Kurta,Rayon,Vasanth Textiles,Tirupur,Summer,350,380,450,Good,Yes
+87,10/22/2024 18:12:20,Blouse,Cotton,Shree Fabrics,Pali,All time,70,90,120,Good,Yes
+88,10/22/2024 18:14:05,Handkerchief,Cotton,Sai Ram Fabrics,Tirupur,All time,20,25,40,Good,Yes
+89,10/22/2024 18:16:30,Skirt,Chiffon,Ravi Textiles,Surat,All time,300,340,420,Good,Yes
+90,10/22/2024 18:18:15,Pajamas,Linen,Vimal Textiles,Ahmedabad,All time,200,230,300,Good,Yes
+91,10/22/2024 18:20:40,Saree,Chiffon,Emco Textiles,Jetpur,All time,450,500,600,Good,Yes
+92,10/22/2024 18:22:10,Bedsheet,Cotton,RR Textiles,Surat,All time,180,220,280,Good,Yes
+93,10/22/2024 18:24:05,Shirt,Cotton,Sri Velavan Textiles,Erode,All time,200,230,300,Good,Yes
+94,10/22/2024 18:26:10,Dupatta,Silk,Balaji Textiles,Surat,All time,280,320,400,Good,Yes
+95,10/22/2024 18:28:05,Lungi,Cotton,Shree Ram Textiles,Erode,All time,100,120,150,Good,Yes
+96,10/22/2024 18:30:22,Blouse,Cotton,Shree Fabrics,Pali,All time,70,90,100,Good,Yes
+97,10/22/2024 18:32:15,Pajamas,Cotton,Vimal Textiles,Ahmedabad,All time,150,170,220,Good,Yes
+98,10/22/2024 18:34:10,Handkerchief,Cotton,Sai Ram Fabrics,Tirupur,All time,20,25,35,Good,Yes
+99,10/22/2024 18:36:30,Skirt,Chiffon,Ravi Textiles,Surat,All time,300,350,420,Good,Yes
+100,10/22/2024 18:38:25,Bedsheet,Linen,Sadhna Textiles,Jaipur,All time,250,280,350,Good,Yes
+101,10/22/2024 18:40:10,T-shirt,Cotton,Sri Velavan Textiles,Erode,All time,200,230,300,Good,Yes
+102,10/22/2024 18:42:15,Lungi,Cotton,Shree Ram Textiles,Erode,All time,110,140,180,Good,Yes
+103,10/22/2024 18:44:05,Pajamas,Rayon,Vimal Textiles,Ahmedabad,Summer,180,210,250,Good,Yes
+104,10/22/2024 18:46:15,Kurta,Linen,Swastik Textiles,Jaipur,Summer,320,360,450,Good,Yes
+105,10/22/2024 18:48:25,Dupatta,Silk,Balaji Textiles,Surat,All time,280,320,400,Good,Yes
+106,10/22/2024 18:50:05,Saree,Silk,Sri Lakshmi Silks,Surat,Marriage,650,700,850,Good,Yes
+107,10/22/2024 18:52:30,Handkerchief,Cotton,Sai Ram Fabrics,Tirupur,All time,20,25,40,Good,Yes
+108,10/22/2024 18:54:15,Pillow cover,Cotton,RSN Textiles,Erode,All time,30,40,50,Good,Yes
+109,10/22/2024 18:56:10,Shirt,Linen,Sri Velavan Textiles,Erode,All time,250,280,350,Good,Yes
+110,10/22/2024 18:58:20,Bedsheet,Cotton,RR Textiles,Surat,All time,180,210,260,Good,Yes
+111,10/22/2024 19:00:05,Saree,Chiffon,Ravi Textiles,Surat,All time,400,450,600,Good,Yes
+112,10/22/2024 19:02:15,Skirt,Linen,Royal Fabrics,Ahmedabad,Summer,220,250,320,Good,Yes
+113,10/22/2024 19:04:05,Pajamas,Cotton,Vimal Textiles,Ahmedabad,All time,150,180,250,Good,Yes
+114,10/22/2024 19:06:10,Kurta,Rayon,Vasanth Textiles,Tirupur,Summer,340,380,450,Good,Yes
+115,10/22/2024 19:08:15,Blouse,Cotton,Sathya Textiles,Pali,All time,70,90,120,Good,Yes
+116,10/22/2024 19:10:25,Saree,Silk,Emco Textiles,Jetpur,Marriage,700,750,950,Good,Yes
+117,10/22/2024 19:12:15,Dupatta,Cotton,Om Textiles,Jaipur,Summer,200,230,300,Good,Yes
+118,10/22/2024 19:14:10,Lungi,Cotton,Shree Ram Textiles,Erode,All time,110,140,180,Good,Yes
+119,10/22/2024 19:16:05,Blouse,Silk,Shree Fabrics,Pali,All time,130,150,200,Good,Yes
+120,10/22/2024 19:18:20,Skirt,Chiffon,Ravi Textiles,Surat,All time,300,340,420,Good,Yes
+121,10/22/2024 19:20:05,T-shirt,Cotton,Sri Velavan Textiles,Erode,All time,200,230,300,Good,Yes
+122,10/22/2024 19:22:10,Kurta,Linen,Swastik Textiles,Jaipur,Summer,320,360,450,Good,Yes
+123,10/22/2024 19:24:15,Bedsheet,Cotton,RR Textiles,Surat,All time,180,210,260,Good,Yes
+124,10/22/2024 19:26:05,Pillow cover,Cotton,RSN Textiles,Erode,All time,30,40,50,Good,Yes
+125,10/22/2024 19:28:15,Blouse,Cotton,Shree Fabrics,Pali,All time,70,90,120,Good,Yes
+126,10/22/2024 19:30:05,Dupatta,Silk,Balaji Textiles,Surat,All time,280,320,400,Good,Yes
+127,10/22/2024 19:32:10,Lungi,Cotton,Shree Ram Textiles,Erode,All time,110,130,160,Good,Yes
+128,10/22/2024 19:34:05,Shirt,Linen,Sri Velavan Textiles,Erode,All time,250,280,350,Good,Yes
+129,10/22/2024 19:36:15,Saree,Chiffon,Ravi Textiles,Surat,All time,400,450,600,Good,Yes
+130,10/22/2024 19:38:10,Skirt,Linen,Royal Fabrics,Ahmedabad,Summer,220,250,320,Good,Yes
+131,10/22/2024 19:40:05,Pajamas,Cotton,Vimal Textiles,Ahmedabad,All time,150,180,250,Good,Yes
+132,10/22/2024 19:42:15,Kurta,Rayon,Vasanth Textiles,Tirupur,Summer,340,380,450,Good,Yes
+133,10/22/2024 19:44:05,Handkerchief,Cotton,Sai Ram Fabrics,Tirupur,All time,20,25,40,Good,Yes
+134,10/22/2024 19:46:10,Pajamas,Rayon,Vimal Textiles,Ahmedabad,Summer,180,210,250,Good,Yes
+135,10/22/2024 19:48:05,Saree,Silk,Sri Lakshmi Silks,Surat,Marriage,650,700,850,Good,Yes
+136,10/22/2024 19:50:10,Blouse,Cotton,Sathya Textiles,Pali,All time,70,90,120,Good,Yes
+137,10/22/2024 19:52:15,Bedsheet,Linen,Sadhna Textiles,Jaipur,All time,250,280,350,Good,Yes
+138,10/22/2024 19:54:10,Saree,Silk,Emco Textiles,Jetpur,Marriage,700,750,950,Good,Yes
+139,10/22/2024 19:56:05,Handkerchief,Cotton,Sai Ram Fabrics,Tirupur,All time,20,25,35,Good,Yes
+140,10/22/2024 19:58:20,Dupatta,Cotton,Om Textiles,Jaipur,Summer,200,230,300,Good,Yes
+141, 10/22/2024 20:00:05, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes
+142, 10/22/2024 20:02:10, Lungi, Cotton, Shree Ram Textiles, Erode, All time,100,130,160, Good, Yes
+143, 10/22/2024 20:04:15, Kurta, Linen, Swastik Textiles, Jaipur, Summer,320,360,450, Good, Yes
+144, 10/22/2024 20:06:05, Saree, Chiffon, Ravi Textiles, Surat, All time,400,450,600, Good, Yes
+145, 10/22/2024 20:08:15, Blouse, Silk, Shree Fabrics, Pali, All time,130,150,200, Good, Yes
+146, 10/22/2024 20:10:05, Dupatta, Cotton, Balaji Textiles, Surat, Summer,280,320,400, Good, Yes
+147, 10/22/2024 20:12:10, Pillow cover, Cotton, RSN Textiles, Erode, All time,30,40,50, Good, Yes
+148, 10/22/2024 20:14:05, Bedsheet, Cotton, RR Textiles, Surat, All time,200,230,300, Good, Yes
+149, 10/22/2024 20:16:10, Skirt, Linen, Royal Fabrics, Ahmedabad, Summer,250,280,350, Good, Yes
+150, 10/22/2024 20:18:05, Pajamas, Cotton, Vimal Textiles, Ahmedabad, All time,150,180,250, Good, Yes
+151, 10/22/2024 20:20:10, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes
+152, 10/22/2024 20:22:15, Kurta, Rayon, Vasanth Textiles, Tirupur, Summer,340,380,450, Good, Yes
+153, 10/22/2024 20:24:05, Handkerchief, Cotton, Sai Ram Fabrics, Tirupur, All time,20,25,35, Good, Yes
+154, 10/22/2024 20:26:10, Saree, Silk, Sri Lakshmi Silks, Surat, Marriage,650,700,850, Good, Yes
+155, 10/22/2024 20:28:15, Dupatta, Silk, Emco Textiles, Jetpur, All time,280,320,400, Good, Yes
+156, 10/22/2024 20:30:10, Blouse, Cotton, Sathya Textiles, Pali, All time,70,90,120, Good, Yes
+157, 10/22/2024 20:32:15, Pajamas, Cotton, Vimal Textiles, Ahmedabad, Summer,150,180,250, Good, Yes
+158, 10/22/2024 20:34:10, Skirt, Chiffon, Ravi Textiles, Surat, All time,300,340,420, Good, Yes
+159, 10/22/2024 20:36:15, Shirt, Linen, Sri Velavan Textiles, Erode, All time,250,280,350, Good, Yes
+160, 10/22/2024 20:38:10, Bedsheet, Cotton, RR Textiles, Surat, All time,180,210,260, Good, Yes
+161, 10/22/2024 20:40:05, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes
+162, 10/22/2024 20:42:10, Lungi, Cotton, Shree Ram Textiles, Erode, All time,100,130,160, Good, Yes
+163, 10/22/2024 20:44:15, Kurta, Linen, Swastik Textiles, Jaipur, Summer,320,360,450, Good, Yes
+164, 10/22/2024 20:46:05, Saree, Chiffon, Ravi Textiles, Surat, All time,400,450,600, Good, Yes
+165, 10/22/2024 20:48:15, Blouse, Silk, Shree Fabrics, Pali, All time,130,150,200, Good, Yes
+166, 10/22/2024 20:50:05, Dupatta, Cotton, Balaji Textiles, Surat, Summer,280,320,400, Good, Yes
+167, 10/22/2024 20:52:10, Pillow cover, Cotton, RSN Textiles, Erode, All time,30,40,50, Good, Yes
+168, 10/22/2024 20:54:05, Bedsheet, Cotton, RR Textiles, Surat, All time,200,230,300, Good, Yes
+169, 10/22/2024 20:56:10, Skirt, Linen, Royal Fabrics, Ahmedabad, Summer,250,280,350, Good, Yes
+170, 10/22/2024 20:58:05, Pajamas, Cotton, Vimal Textiles, Ahmedabad, All time,150,180,250, Good, Yes
+171, 10/22/2024 21:00:10, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes
+172, 10/22/2024 21:02:15, Kurta, Rayon, Vasanth Textiles, Tirupur, Summer,340,380,450, Good, Yes
+173, 10/22/2024 21:04:05, Handkerchief, Cotton, Sai Ram Fabrics, Tirupur, All time,20,25,35, Good, Yes
+174, 10/22/2024 21:06:10, Saree, Silk, Sri Lakshmi Silks, Surat, Marriage,650,700,850, Good, Yes
+175, 10/22/2024 21:08:15, Dupatta, Silk, Emco Textiles, Jetpur, All time,280,320,400, Good, Yes
+176, 10/22/2024 21:10:10, Blouse, Cotton, Sathya Textiles, Pali, All time,70,90,120, Good, Yes
+177, 10/22/2024 21:12:15, Pajamas, Cotton, Vimal Textiles, Ahmedabad, Summer,150,180,250, Good, Yes
+178, 10/22/2024 21:14:10, Skirt, Chiffon, Ravi Textiles, Surat, All time,300,340,420, Good, Yes
+179, 10/22/2024 21:16:15, Shirt, Linen, Sri Velavan Textiles, Erode, All time,250,280,350, Good, Yes
+180, 10/22/2024 21:18:10, Bedsheet, Cotton, RR Textiles, Surat, All time,180,210,260, Good, Yes
+181, 10/22/2024 21:20:05, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes
+182, 10/22/2024 21:22:10, Lungi, Cotton, Shree Ram Textiles, Erode, All time,100,130,160, Good, Yes
+183, 10/22/2024 21:24:15, Kurta, Linen, Swastik Textiles,Surat,All time,140,170,200,Good,Yes
+184, 10/22/2024 21:26:05, Saree, Chiffon, Ravi Textiles, Surat, All time,400,450,600, Good, Yes
+185, 10/22/2024 21:28:15, Blouse, Silk, Shree Fabrics, Pali, All time,130,150,200, Good, Yes
+186, 10/22/2024 21:30:05, Dupatta, Cotton, Balaji Textiles, Surat, Summer,280,320,400, Good, Yes
+187, 10/22/2024 21:32:10, Pillow cover, Cotton, RSN Textiles, Erode, All time,30,40,50, Good, Yes
+188, 10/22/2024 21:34:05, Bedsheet, Cotton, RR Textiles, Surat, All time,200,230,300, Good, Yes
+189, 10/22/2024 21:36:10, Skirt, Linen, Royal Fabrics, Ahmedabad, Summer,250,280,350, Good, Yes
+190, 10/22/2024 21:38:05, Pajamas, Cotton, Vimal Textiles, Ahmedabad, All time,150,180,250, Good, Yes
+191, 10/22/2024 21:40:10, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes
+192, 10/22/2024 21:42:15, Kurta, Rayon, Vasanth Textiles, Tirupur, Summer,340,380,450, Good, Yes
+193, 10/22/2024 21:44:05, Handkerchief, Cotton, Sai Ram Fabrics, Tirupur, All time,20,25,35, Good, Yes
+194, 10/22/2024 21:46:10, Saree, Silk, Sri Lakshmi Silks, Surat, Marriage,650,700,850, Good, Yes
+195, 10/22/2024 21:48:15, Dupatta, Silk, Emco Textiles, Jetpur, All time,280,320,400, Good, Yes
+196, 10/22/2024 21:50:10, Blouse, Cotton, Sathya Textiles, Pali, All time,70,90,120, Good, Yes
+197, 10/22/2024 21:52:15, Pajamas, Cotton, Vimal Textiles, Ahmedabad, Summer,150,180,250, Good, Yes
+198, 10/22/2024 21:54:10, Skirt, Chiffon, Ravi Textiles, Surat, All time,300,340,420, Good, Yes
+199, 10/22/2024 21:56:15, Shirt, Linen, Sri Velavan Textiles, Erode, All time,250,280,350, Good, Yes
+200, 10/22/2024 21:58:10, Bedsheet, Cotton, RR Textiles, Surat, All time,180,210,260, Good, Yes
+201, 10/22/2024 22:00:05, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes
+202, 10/22/2024 22:02:10, Lungi, Cotton, Shree Ram Textiles, Erode, All time,100,130,160, Good, Yes
+203, 10/22/2024 22:04:15, Kurta, Linen, Swastik Textiles, Jaipur, Summer,320,360,450, Good, Yes
+204, 10/22/2024 22:06:05, Saree, Chiffon, Ravi Textiles, Surat, All time,400,450,600, Good, Yes
+205, 10/22/2024 22:08:15, Blouse, Silk, Shree Fabrics, Pali, All time,130,150,200, Good, Yes
+206, 10/22/2024 22:10:05, Dupatta, Cotton, Balaji Textiles, Surat, Summer,280,320,400, Good, Yes
+207, 10/22/2024 22:12:10, Pillow cover, Cotton, RSN Textiles, Erode, All time,30,40,50, Good, Yes
+208, 10/22/2024 22:14:05, Bedsheet, Cotton, RR Textiles, Surat, All time,200,230,300, Good, Yes
+209, 10/22/2024 22:16:10, Skirt, Linen, Royal Fabrics, Ahmedabad, Summer,250,280,350, Good, Yes
+210, 10/22/2024 22:18:05, Pajamas, Cotton, Vimal Textiles, Ahmedabad, All time,150,180,250, Good, Yes
+211, 10/22/2024 22:20:10, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes
+212, 10/22/2024 22:22:15, Kurta, Rayon, Vasanth Textiles, Tirupur, Summer,340,380,450, Good, Yes
+213, 10/22/2024 22:24:05, Handkerchief, Cotton, Sai Ram Fabrics, Tirupur, All time,20,25,35, Good, Yes
+214, 10/22/2024 22:26:10, Saree, Silk, Sri Lakshmi Silks, Surat, Marriage,650,700,850, Good, Yes
+215, 10/22/2024 22:28:15, Dupatta, Silk, Emco Textiles, Jetpur, All time,280,320,400, Good, Yes
+216, 10/22/2024 22:30:10, Blouse, Cotton, Sathya Textiles, Pali, All time,70,90,120, Good, Yes
+217, 10/22/2024 22:32:15, Pajamas, Cotton, Vimal Textiles, Ahmedabad, Summer,150,180,250, Good, Yes
+218, 10/22/2024 22:34:10, Skirt, Chiffon, Ravi Textiles, Surat, All time,300,340,420, Good, Yes
+219, 10/22/2024 22:36:15, Shirt, Linen, Sri Velavan Textiles, Erode, All time,250,280,350, Good, Yes
+220, 10/22/2024 22:38:10, Bedsheet, Cotton, RR Textiles, Surat, All time,180,210,260, Good, Yes
+221, 10/22/2024 22:40:05, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes
+222, 10/22/2024 22:42:10, Lungi, Cotton, Shree Ram Textiles, Erode, All time,100,130,160, Good, Yes
+223, 10/22/2024 22:44:15, Kurta, Linen, Swastik Textiles, Jaipur, Summer,320,360,450, Good, Yes
+224, 10/22/2024 22:46:05, Saree, Chiffon, Ravi Textiles, Surat, All time,400,450,600, Good, Yes
+225, 10/22/2024 22:48:15, Blouse, Silk, Shree Fabrics, Pali, All time,130,150,200, Good, Yes
+226, 10/22/2024 22:50:10, Dupatta, Cotton, Balaji Textiles, Surat, Summer,280,320,400, Good, Yes
+227, 10/22/2024 22:52:15, Pillow cover, Cotton, RSN Textiles, Erode, All time,30,40,50, Good, Yes
+228, 10/22/2024 22:54:10, Bedsheet, Cotton, RR Textiles, Surat, All time,200,230,300, Good, Yes
+229, 10/22/2024 22:56:15, Skirt, Linen, Royal Fabrics, Ahmedabad, Summer,250,280,350, Good, Yes
+230, 10/22/2024 22:58:10, Pajamas, Cotton, Vimal Textiles, Ahmedabad, All time,150,180,250, Good, Yes
+231, 10/22/2024 23:00:05, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes
+232, 10/22/2024 23:02:10, Kurta, Rayon, Vasanth Textiles, Tirupur, Summer,340,380,450, Good, Yes
+233, 10/22/2024 23:04:05, Handkerchief, Cotton, Sai Ram Fabrics, Tirupur, All time,20,25,35, Good, Yes
+234, 10/22/2024 23:06:10, Saree, Silk, Sri Lakshmi Silks, Surat, Marriage,650,700,850, Good, Yes
+235, 10/22/2024 23:08:15, Dupatta, Silk, Emco Textiles, Jetpur, All time,280,320,400, Good, Yes
+236, 10/22/2024 23:10:10, Blouse, Cotton, Sathya Textiles, Pali, All time,70,90,120, Good, Yes
+237, 10/22/2024 23:12:15, Pajamas, Cotton, Vimal Textiles, Ahmedabad, Summer,150,180,250, Good, Yes
+238, 10/22/2024 23:14:10, Skirt, Chiffon, Ravi Textiles, Surat, All time,300,340,420, Good, Yes
+239, 10/22/2024 23:16:15, Shirt, Linen, Sri Velavan Textiles, Erode, All time,250,280,350, Good, Yes
+240, 10/22/2024 23:18:10, Bedsheet, Cotton, RR Textiles, Surat, All time,180,210,260, Good, Yes
+241, 10/22/2024 23:20:05, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes
+242, 10/22/2024 23:22:10, Lungi, Cotton, Shree Ram Textiles, Erode, All time,100,130,160, Good, Yes
+243, 10/22/2024 23:24:15, Kurta, Linen, Swastik Textiles, Jaipur,summer,320,360,450,Good,Yes
+244, 10/22/2024 23:26:05, Saree, Chiffon, Ravi Textiles, Surat, All time,400,450,600, Good, Yes
+245, 10/22/2024 23:28:15, Blouse, Silk, Shree Fabrics, Pali, All time,130,150,200, Good, Yes
+246, 10/22/2024 23:30:10, Dupatta, Cotton, Balaji Textiles, Surat, Summer,280,320,400, Good, Yes
+247, 10/22/2024 23:32:15, Pillow cover, Cotton, RSN Textiles, Erode, All time,30,40,50, Good, Yes
+248, 10/22/2024 23:34:10, Bedsheet, Cotton, RR Textiles, Surat, All time,200,230,300, Good, Yes
+249, 10/22/2024 23:36:15, Skirt, Linen, Royal Fabrics, Ahmedabad, Summer,250,280,350, Good, Yes
+250, 10/22/2024 23:38:10, Pajamas, Cotton, Vimal Textiles, Ahmedabad, All time,150,180,250, Good, Yes
+251, 10/22/2024 23:40:05, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes
+252, 10/22/2024 23:42:10, Lungi, Cotton, Shree Ram Textiles, Erode, All time,100,130,160, Good, Yes
+253, 10/22/2024 23:44:15, Kurta, Linen, Swastik Textiles, Jaipur, Summer,320,360,450, Good, Yes
+254, 10/22/2024 23:46:05, Saree, Chiffon, Ravi Textiles, Surat, All time,400,450,600, Good, Yes
+255, 10/22/2024 23:48:15, Blouse, Silk, Shree Fabrics, Pali, All time,130,150,200, Good, Yes
+256, 10/22/2024 23:50:10, Dupatta, Cotton, Balaji Textiles, Surat, Summer,280,320,400, Good, Yes
+257, 10/22/2024 23:52:15, Pillow cover, Cotton, RSN Textiles, Erode, All time,30,40,50, Good, Yes
+258, 10/22/2024 23:54:10, Bedsheet, Cotton, RR Textiles, Surat, All time,200,230,300, Good, Yes
+259, 10/22/2024 23:56:15, Skirt, Linen, Royal Fabrics, Ahmedabad, Summer,250,280,350, Good, Yes
+260, 10/22/2024 23:58:10, Pajamas, Cotton, Vimal Textiles, Ahmedabad, All time,150,180,250, Good, Yes
+261, 10/23/2024 00:00:05, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes
+262, 10/23/2024 00:02:10, Kurta, Rayon, Vasanth Textiles, Tirupur, Summer,340,380,450, Good, Yes
+263, 10/23/2024 00:04:05, Handkerchief, Cotton, Sai Ram Fabrics, Tirupur, All time,20,25,35, Good, Yes
+264, 10/23/2024 00:06:10, Saree, Silk, Sri Lakshmi Silks, Surat, Marriage,650,700,850, Good, Yes
+265, 10/23/2024 00:08:15, Dupatta, Silk, Emco Textiles, Jetpur, All time,280,320,400, Good, Yes
+266, 10/23/2024 00:10:10, Blouse, Cotton, Sathya Textiles, Pali, All time,70,90,120, Good, Yes
+267, 10/23/2024 00:12:15, Pajamas, Cotton, Vimal Textiles, Ahmedabad, Summer,150,180,250, Good, Yes
+268, 10/23/2024 00:14:10, Skirt, Chiffon, Ravi Textiles, Surat, All time,300,340,420, Good, Yes
+269, 10/23/2024 00:16:15, Shirt, Linen, Sri Velavan Textiles, Erode, All time,250,280,350, Good, Yes
+270, 10/23/2024 00:18:10, Bedsheet, Cotton, RR Textiles, Surat, All time,180,210,260, Good, Yes
+271, 10/23/2024 00:20:05, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes
+272, 10/23/2024 00:22:10, Lungi, Cotton, Shree Ram Textiles, Erode, All time,100,130,160, Good, Yes
+273, 10/23/2024 00:24:15, Kurta, Linen, Swastik Textiles, Jaipur, Summer,320,360,450, Good, Yes
+274, 10/23/2024 00:26:05, Saree, Chiffon, Ravi Textiles, Surat, All time,400,450,600, Good, Yes
+275, 10/23/2024 00:28:15, Blouse, Silk, Shree Fabrics, Pali, All time,130,150,200, Good, Yes
+276, 10/23/2024 00:30:10, Dupatta, Cotton, Balaji Textiles, Surat, Summer,280,320,400, Good, Yes
+277, 10/23/2024 00:32:15, Pillow cover, Cotton, RSN Textiles, Erode, All time,30,40,50, Good, Yes
+278, 10/23/2024 00:34:10, Bedsheet, Cotton, RR Textiles, Surat, All time,200,230,300, Good, Yes
+279, 10/23/2024 00:36:15, Skirt, Linen, Royal Fabrics, Ahmedabad, Summer,250,280,350, Good, Yes
+280, 10/23/2024 00:38:10, Pajamas, Cotton, Vimal Textiles, Ahmedabad, All time,150,180,250, Good, Yes
+281, 10/23/2024 00:40:05, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes
+282, 10/23/2024 00:42:10, Lungi, Cotton, Shree Ram Textiles, Erode, All time,100,130,160, Good, Yes
+283, 10/23/2024 00:44:15, Kurta, Linen, Swastik Textiles, Jaipur, Summer,320,360,450, Good, Yes
+284, 10/23/2024 00:46:05, Saree, Chiffon, Ravi Textiles, Surat, All time,400,450,600, Good, Yes
+285, 10/23/2024 00:48:15, Blouse, Silk, Shree Fabrics, Pali, All time,130,150,200, Good, Yes
+286, 10/23/2024 00:50:10, Dupatta, Cotton, Balaji Textiles, Surat, Summer,280,320,400, Good, Yes
+287, 10/23/2024 00:52:15, Pillow cover, Cotton, RSN Textiles, Erode, All time,30,40,50, Good, Yes
+288, 10/23/2024 00:54:10, Bedsheet, Cotton, RR Textiles, Surat, All time,200,230,300, Good, Yes
+289, 10/23/2024 00:56:15, Skirt, Linen, Royal Fabrics, Ahmedabad, Summer,250,280,350, Good, Yes
+290, 10/23/2024 00:58:10, Pajamas, Cotton, Vimal Textiles, Ahmedabad, All time,150,180,250, Good, Yes
+291, 10/23/2024 01:00:05, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes
+292, 10/23/2024 01:02:10, Kurta, Rayon, Vasanth Textiles, Tirupur, Summer,340,380,450, Good, Yes
+293, 10/23/2024 01:04:05, Handkerchief, Cotton, Sai Ram Fabrics, Tirupur,summer,320,327,450,Good,Yes
+294, 10/23/2024 01:06:10, Saree, Silk, Sri Lakshmi Silks, Surat, Marriage,650,700,850, Good, Yes
+295, 10/23/2024 01:08:15, Dupatta, Silk, Emco Textiles, Jetpur, All time,280,320,400, Good, Yes
+296, 10/23/2024 01:10:10, Blouse, Cotton, Sathya Textiles, Pali, All time,70,90,120, Good, Yes
+297, 10/23/2024 01:12:15, Pajamas, Cotton, Vimal Textiles, Ahmedabad, Summer,150,180,250, Good, Yes
+298, 10/23/2024 01:14:10, Skirt, Chiffon, Ravi Textiles, Surat, All time,300,340,420, Good, Yes
+299, 10/23/2024 01:16:15, Shirt, Linen, Sri Velavan Textiles, Erode, All time,250,280,350, Good, Yes
+300, 10/23/2024 01:18:10, Bedsheet, Cotton, RR Textiles, Surat, All time,180,210,260, Good, Yes
+301, 10/23/2024 01:20:15, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes
+302, 10/23/2024 01:22:10, Kurta, Rayon, Vasanth Textiles, Tirupur, Summer,340,380,450, Good, Yes
+303, 10/23/2024 01:24:05, Handkerchief, Cotton, Sai Ram Fabrics, Tirupur, All time,20,25,35, Good, Yes
+304, 10/23/2024 01:26:10, Saree, Silk, Sri Lakshmi Silks, Surat, Marriage,650,700,850, Good, Yes
+305, 10/23/2024 01:28:15, Dupatta, Silk, Emco Textiles, Jetpur, All time,280,320,400, Good, Yes
+306, 10/23/2024 01:30:10, Blouse, Cotton, Sathya Textiles, Pali, All time,70,90,120, Good, Yes
+307, 10/23/2024 01:32:15, Pajamas, Cotton, Vimal Textiles, Ahmedabad, Summer,150,180,250, Good, Yes
+308, 10/23/2024 01:34:10, Skirt, Chiffon, Ravi Textiles, Surat, All time,300,340,420, Good, Yes
+309, 10/23/2024 01:36:15, Shirt, Linen, Sri Velavan Textiles, Erode, All time,250,280,350, Good, Yes
+310, 10/23/2024 01:38:10, Bedsheet, Cotton, RR Textiles, Surat, All time,180,210,260, Good, Yes
+311, 10/23/2024 01:40:05, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes
+312, 10/23/2024 01:42:10, Kurta, Rayon, Vasanth Textiles, Tirupur, Summer,340,380,450, Good, Yes
+313, 10/23/2024 01:44:05, Handkerchief, Cotton, Sai Ram Fabrics, Tirupur, All time,20,25,35, Good, Yes
+314, 10/23/2024 01:46:10, Saree, Silk, Sri Lakshmi Silks, Surat, Marriage,650,700,850, Good, Yes
+315, 10/23/2024 01:48:15, Dupatta, Silk, Emco Textiles, Jetpur, All time,280,320,400, Good, Yes
+316, 10/23/2024 01:50:10, Blouse, Cotton, Sathya Textiles, Pali, All time,70,90,120, Good, Yes
+317, 10/23/2024 01:52:15, Pajamas, Cotton, Vimal Textiles, Ahmedabad, Summer,150,180,250, Good, Yes
+318, 10/23/2024 01:54:10, Skirt, Chiffon, Ravi Textiles, Surat, All time,300,340,420, Good, Yes
+319, 10/23/2024 01:56:15, Shirt, Linen, Sri Velavan Textiles, Erode, All time,250,280,350, Good, Yes
+320, 10/23/2024 01:58:10, Bedsheet, Cotton, RR Textiles, Surat, All time,180,210,260, Good, Yes
+321, 10/23/2024 02:00:05, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes
+322, 10/23/2024 02:02:10, Kurta, Rayon, Vasanth Textiles, Tirupur, Summer,340,380,450, Good, Yes
+323, 10/23/2024 02:04:05, Handkerchief, Cotton, Sai Ram Fabrics, Tirupur, All time,20,25,35, Good, Yes
+324, 10/23/2024 02:06:10, Saree, Silk, Sri Lakshmi Silks, Surat, Marriage,650,700,850, Good, Yes
+325, 10/23/2024 02:08:15, Dupatta, Silk, Emco Textiles, Jetpur, All time,280,320,400, Good, Yes
+326, 10/23/2024 02:10:10, Blouse, Cotton, Sathya Textiles, Pali, All time,70,90,120, Good, Yes
+327, 10/23/2024 02:12:15, Pajamas, Cotton, Vimal Textiles, Ahmedabad, Summer,150,180,250, Good, Yes
+328, 10/23/2024 02:14:10, Skirt, Chiffon, Ravi Textiles, Surat, All time,300,340,420, Good, Yes
+329, 10/23/2024 02:16:15, Shirt, Linen, Sri Velavan Textiles, Erode, All time,250,280,350, Good, Yes
+330, 10/23/2024 02:18:10, Bedsheet, Cotton, RR Textiles, Surat, All time,180,210,260, Good, Yes
+331, 10/23/2024 02:20:05, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes
+332, 10/23/2024 02:22:10, Kurta, Rayon, Vasanth Textiles, Tirupur, Summer,340,380,450, Good, Yes
+333, 10/23/2024 02:24:05, Handkerchief, Cotton, Sai Ram Fabrics, Tirupur, All time,20,25,35, Good, Yes
+334, 10/23/2024 02:26:10, Saree, Silk, Sri Lakshmi Silks, Surat, Marriage,650,700,850, Good, Yes
+335, 10/23/2024 02:28:15, Dupatta, Silk, Emco Textiles, Jetpur, All time,280,320,400, Good, Yes
+336, 10/23/2024 02:30:10, Blouse, Cotton, Sathya Textiles, Pali, All time,70,90,120, Good, Yes
+337, 10/23/2024 02:32:15, Pajamas, Cotton, Vimal Textiles, Ahmedabad, Summer,150,180,250, Good, Yes
+338, 10/23/2024 02:34:10, Skirt, Chiffon, Ravi Textiles, Surat, All time,300,340,420, Good, Yes
+339, 10/23/2024 02:36:15, Shirt, Linen, Sri Velavan Textiles, Erode, All time,250,280,350, Good, Yes
+340, 10/23/2024 02:38:10, Bedsheet, Cotton, RR Textiles, Surat, All time,180,210,260, Good, Yes
+341, 10/23/2024 02:40:05, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes
+342, 10/23/2024 02:42:10, Kurta, Rayon, Vasanth Textiles, Tirupur, Summer,340,250,420,Good,Yes
+343, 10/22/2024 16:12:30, Stole, Silk, Trendy Textiles, Jaipur, All time,150,180,220, Good, Yes
+344, 10/22/2024 16:14:05, Leggings, Cotton, Fashion Hub, Delhi, Daily,200,250,300, Good, Yes
+345, 10/22/2024 16:16:14, Kurti, Rayon, Ethnic Styles, Surat, Casual,400,450,500, Good, Yes
+346, 10/22/2024 16:18:30, Waistcoat, Wool, Royal Attire, Ahmedabad, Formal,700,800,900, Good, Yes
+347, 10/22/2024 16:20:15, Cape, Chiffon, Modern Designs, Coimbatore, Party,350,400,450, Good, Yes
+348, 10/22/2024 16:22:40, Trousers, Cotton, Everyday Wear, Bangalore, Casual,300,350,400, Good, Yes
+349, 10/22/2024 16:24:25, Blazer, Linen, Classic Fit, Mumbai, Formal,1000,1100,1200, Good, Yes
+350, 10/22/2024 16:26:10, Maxi Dress, Georgette, Summer Vibes, Chennai, All time,600,700,800, Good, Yes
+351, 10/22/2024 16:28:55, Nightgown, Satin, Dreamy Fabrics, Kolkata, Sleepwear,400,450,500, Good, Yes
+352, 10/22/2024 16:30:45, Poncho, Wool, Winter Wear, Ludhiana, Winter,500,550,600, Good, Yes
+353, 10/22/2024 16:32:30, Jumpsuit, Cotton, Fashion Forward, Jaipur, Casual,800,900,1000, Good, Yes
+354, 10/22/2024 16:34:15, Cape, Velvet, Festive Looks, Surat, Party,700,800,900, Good, Yes
+355, 10/22/2024 16:36:00, Shrug, Chiffon, Light Layers, Bangalore, Summer,250,300,350, Good, Yes
+356, 10/22/2024 16:37:45, Dhoti, Cotton, Traditional Styles, Erode, Festival,600,650,700, Good, Yes
+357, 10/22/2024 16:39:30, Cardigan, Wool, Cozy Knit, Pune, Winter,400,450,500, Good, Yes
+358, 10/22/2024 16:41:15, Tunic, Linen, Breezy Fit, Coimbatore, Casual,300,350,400, Good, Yes
+359, 10/22/2024 16:43:00, A-line Dress, Georgette, Elegant Fashion, Hyderabad, Formal,800,900,1000, Good, Yes
+360, 10/22/2024 16:44:45, Skirt, Satin, Stylish Flare, Kolkata, Party,500,600,700, Good, Yes
+361, 10/22/2024 16:46:30, Culottes, Cotton, Trendy Trousers, Chennai, Casual,400,450,500, Good, Yes
+362, 10/22/2024 16:48:15, Sweatshirt, Polyester, Casual Comfort, Bangalore, Daily,300,350,400, Good, Yes
+363, 10/22/2024 16:50:00, Peplum Top, Chiffon, Stylish Silhouette, Mumbai, Party,450,500,550, Good, Yes
+364, 10/22/2024 16:51:45, Anarkali, Silk, Regal Look, Jaipur, Wedding,1200,1300,1400, Good, Yes
+365, 10/22/2024 16:53:30, T-shirt, Cotton, Casual Wear, Delhi, Daily,150,180,220, Good, Yes
+366, 10/22/2024 16:55:15, Duster Coat, Wool, Fashion Layers, Surat, Winter,600,700,800, Good, Yes
+367, 10/22/2024 16:57:00, Kaftan, Rayon, Breezy Fit, Erode, Casual,500,550,600, Good, Yes
+368, 10/22/2024 16:58:45, Mini Skirt, Denim, Stylish Casual, Bangalore, Daily,400,450,500, Good, Yes
+369, 10/22/2024 17:00:30, Lingerie Set, Lace, Elegant Comfort, Kolkata, Sleepwear,700,800,900, Good, Yes
+370, 10/22/2024 17:02:15, Overcoat, Wool, Chic Winter, Mumbai, Winter,1200,1300,1400, Good, Yes
+371, 10/22/2024 17:04:00, Palazzo Pants, Linen, Fashion Forward, Coimbatore, Casual,500,600,700, Good, Yes
+372, 10/22/2024 17:05:45, Long Skirt, Georgette, Flowing Style, Hyderabad, Party,800,900,1000, Good, Yes
+373, 10/22/2024 17:07:30, Cropped Top, Cotton, Summer Style, Delhi, Casual,200,250,300, Good, Yes
+374, 10/22/2024 17:09:15, Jumpsuit, Silk, Fashion Elegance, Surat, Wedding,900,1000,1100, Good, Yes
+375, 10/22/2024 17:11:00, Wrap Dress, Chiffon, Stylish Look, Bangalore, Evening,700,800,900, Good, Yes
+376, 10/22/2024 17:12:45, Puffer Jacket, Polyester, Winter Warmth, Pune, Winter,800,900,1000, Good, Yes
+377, 10/22/2024 17:14:30, Tunic Dress, Rayon, Everyday Wear, Chennai, Casual,500,600,700, Good, Yes
+378, 10/22/2024 17:16:15, Bodycon Dress, Lycra, Party Glam, Kolkata, Evening,900,1000,1100, Good, Yes
+379, 10/22/2024 17:18:00, Cardigan, Cotton, Layering Essentials, Mumbai, Daily,400,450,500, Good, Yes
+380, 10/22/2024 17:19:45, Kimono, Silk, Stylish Wrap, Delhi, Party,600,700,800, Good, Yes
+381, 10/22/2024 17:21:30, Long Sleeve Shirt, Cotton, Smart Casual, Bangalore, Daily,300,350,400, Good, Yes
+382, 10/22/2024 17:23:15, Palazzo, Chiffon, Flowy Style, Surat, Evening,500,600,700, Good, Yes
+383, 10/22/2024 17:25:00, Cropped Hoodie, Polyester, Urban Fashion, Pune, Casual,400,450,500, Good, Yes
+384, 10/22/2024 17:26:45, Shift Dress, Georgette, Effortless Style, Chennai, Casual,600,700,800, Good, Yes
+385, 10/22/2024 17:28:30, Jodhpuri Suit, Silk, Traditional Elegance, Jaipur, Wedding,1500,1600,1700, Good, Yes
+386, 10/22/2024 17:30:15, Layered Top, Cotton, Casual Comfort, Kolkata, Daily,300,350,400, Good, Yes
+387, 10/22/2024 17:32:00, A-line Skirt, Linen, Summer Breeze, Mumbai, Casual,500,550,600, Good, Yes
+388, 10/22/2024 17:33:45, Sports Jacket, Polyester, Active Wear, Bangalore, Sports,800,900,1000, Good, Yes
+389, 10/22/2024 17:35:30, Ball Gown, Satin, Glamorous Nights, Hyderabad, Evening,2000,2100,2200, Good, Yes
+390, 10/22/2024 17:37:15, Henley Shirt, Cotton, Casual Layer, Delhi, Daily,350,400,450, Good, Yes
+391, 10/22/2024 17:39:00, Shrug, Wool, Warm Layer, Surat, Winter,500,600,700, Good, Yes
+392, 10/22/2024 17:40:45, Pencil Skirt, Georgette, Office Chic, Coimbatore, Formal,800,900,1000, Good, Yes
+393, 10/22/2024 17:42:30, Trench Coat, Cotton, Classic Style, Mumbai, Winter,1200,1300,1400, Good, Yes
+394, 10/22/2024 17:44:15, Wrap Top, Chiffon, Stylish Fit, Chennai, Party,450,500,550, Good, Yes
+395, 10/22/2024 17:46:00, Wide-Leg Trousers, Linen, Fashion Forward, Bangalore, Casual,600,700,800, Good, Yes
+396, 10/22/2024 17:47:45, Maxi Skirt, Rayon, Flowing Elegance, Jaipur, Formal,700,800,900, Good, Yes
+397, 10/22/2024 17:49:30, Tank Dress, Cotton, Summer Essential, Kolkata, Casual,400,450,500, Good, Yes
+398, 10/22/2024 17:51:15, Sports Leggings, Polyester, Active Lifestyle, Pune, Sports,500,600,700, Good, Yes
+399, 10/22/2024 17:53:00, Midi Dress, Silk, Elegant Evening, Hyderabad, Formal,800,900,1000, Good, Yes
+400, 10/22/2024 17:54:45, Flannel Shirt, Cotton, Cozy Style, Delhi, Casual,350,400,450, Good, Yes
+401, 10/22/2024 17:56:30, Evening Jacket, Velvet, Elegant Layer, Surat, Evening,900,1000,1100, Good, Yes
+402, 10/22/2024 17:58:15, Lace Top, Chiffon, Feminine Charm, Bangalore, Party,500,600,700, Good, Yes
+403, 10/22/2024 18:00:00, Tracksuit, Cotton, Athleisure Wear, Mumbai, Sports,700,800,900, Good, Yes
+404, 10/22/2024 18:01:45, Graphic Tee, Cotton, Fun Fashion, Chennai, Casual,200,250,300, Good, Yes
+405, 10/22/2024 18:03:30, Cape Dress, Georgette, Stylish Flow, Kolkata, Evening,1000,1100,1200, Good, Yes
+406, 10/22/2024 18:05:15, Sports Shorts, Polyester, Active Comfort, Pune, Sports,250,300,350, Good, Yes
+407, 10/22/2024 18:07:00, Midi Skirt, Linen, Classic Cut, Coimbatore, Casual,400,450,500, Good, Yes
+408, 10/22/2024 18:08:45, Silk Scarf, Silk, Luxury Accessory, Jaipur, All time,300,350,400, Good, Yes
+409, 10/22/2024 18:10:30, Long Cardigan, Wool, Cozy Knit, Mumbai, Winter,700,800,900, Good, Yes
+410, 10/22/2024 18:12:15, Cami Top, Satin, Elegant Layering, Chennai, Party,400,450,500, Good, Yes
+411, 10/22/2024 18:14:00, Shift Dress, Cotton, Everyday Look, Delhi, Casual,500,600,700, Good, Yes
+412, 10/22/2024 18:15:45, Palazzo Set, Silk, Stylish Comfort, Surat, Wedding,1200,1300,1400, Good, Yes
+413, 10/22/2024 18:17:30, Faux Leather Jacket, Polyester, Edgy Style, Bangalore, Winter,900,1000,1100, Good, Yes
+414, 10/22/2024 18:19:15, Sweater Dress, Wool, Cozy Elegance, Hyderabad, Winter,800,900,1000, Good, Yes
+415, 10/22/2024 18:21:00, Gym Leggings, Spandex, Flexible Fit, Pune, Sports,400,450,500, Good, Yes
+416, 10/22/2024 18:22:45, Pencil Dress, Georgette, Figure-Hugging, Kolkata, Evening,900,1000,1100, Good, Yes
+417, 10/22/2024 18:24:30, Tulle Skirt, Cotton, Feminine Flair, Delhi, Party,500,600,700, Good, Yes
+418, 10/22/2024 18:26:15, Oversized Hoodie, Cotton, Comfy Style, Mumbai, Casual,600,700,800, Good, Yes
+419, 10/22/2024 18:28:00, Maxi Kaftan, Silk, Resort Wear, Chennai, All time,800,900,1000, Good, Yes
+420, 10/22/2024 18:29:45, Utility Jacket, Denim, Casual Chic, Delhi, Daily,700,800,900, Good, Yes
+421, 10/22/2024 18:31:30, Tunic Blouse, Chiffon, Lightweight Layer, Surat, Casual,450,500,550, Good, Yes
+422, 10/22/2024 18:33:15, Hooded Sweatshirt, Cotton, Comfortable Fit, Bangalore, Sports,500,600,700, Good, Yes
+423, 10/22/2024 18:35:00, Shift Top, Silk, Elegant Casual, Hyderabad, Evening,600,700,800, Good, Yes
+424, 10/22/2024 18:36:45, Denim Skirt, Cotton, Classic Style, Pune, Casual,400,450,500, Good, Yes
+425, 10/22/2024 18:38:30, Chino Pants, Linen, Smart Casual, Coimbatore, Daily,500,550,600, Good, Yes
+426, 10/22/2024 18:40:15, Peasant Top, Rayon, Bohemian Vibe, Chennai, Casual,300,350,400, Good, Yes
+427, 10/22/2024 18:42:00, Evening Gown, Satin, Formal Elegance, Kolkata, Wedding,2000,2100,2200, Good, Yes
+428, 10/22/2024 18:43:45, Asymmetric Dress, Georgette, Fashion Forward, Mumbai, Evening,900,1000,1100, Good, Yes
+429, 10/22/2024 18:45:30, Longline Cardigan, Wool, Stylish Layer, Bangalore, Winter,800,900,1000, Good, Yes
+430, 10/22/2024 18:47:15, Skorts, Cotton, Fun and Functional, Surat, Casual,400,450,500, Good, Yes
+431, 10/22/2024 18:49:00, Button-Up Shirt, Linen, Classic Fit, Delhi, Casual,350,400,450, Good, Yes
+432, 10/22/2024 18:50:45, Floral Dress, Rayon, Summer Breeze, Hyderabad, Casual,500,600,700, Good, Yes
+433, 10/22/2024 18:52:30, Leather Pants, Faux Leather, Edgy Look, Pune, Evening,700,800,900, Good, Yes
+434, 10/22/2024 18:54:15, Bolero Jacket, Cotton, Short and Stylish, Chennai, Party,400,450,500, Good, Yes
+435, 10/22/2024 18:56:00, Wrap Skirt, Georgette, Versatile Style, Kolkata, Casual,500,600,700, Good, Yes
+436, 10/22/2024 18:57:45, Crossover Top, Silk, Elegant Layering, Bangalore, Evening,600,700,800, Good, Yes
+437, 10/22/2024 18:59:30, Joggers, Cotton, Relaxed Fit, Mumbai, Casual,300,350,400, Good, Yes
+438, 10/22/2024 19:01:15, Skater Dress, Chiffon, Fun and Flirty, Surat, Casual,600,700,800, Good, Yes
+439, 10/22/2024 19:03:00, V-neck T-shirt, Cotton, Simple Style, Delhi, Daily,250,300,350, Good, Yes
+440, 10/22/2024 19:04:45, Cargo Pants, Cotton, Outdoor Essential, Bangalore, Casual,600,700,800, Good, Yes
+441, 10/22/2024 19:06:30, Cape Coat, Wool, Elegant Layer, Hyderabad, Winter,1200,1300,1400, Good, Yes
+442, 10/22/2024 19:08:15, Embroidered Blouse, Chiffon, Artistic Flair, Jaipur, Party,550,600,650, Good, Yes
+443, 10/22/2024 19:10:00, Sleeveless Dress, Cotton, Summer Comfort, Pune, Casual,400,450,500, Good, Yes
+444, 10/22/2024 19:11:45, Bomber Jacket, Polyester, Sporty Style, Chennai, Winter,700,800,900, Good, Yes
+445, 10/22/2024 19:13:30, Pencil Pants, Cotton, Office Look, Kolkata, Formal,600,650,700, Good, Yes
+446, 10/22/2024 19:15:15, Pleated Skirt, Georgette, Flowing Fashion, Delhi, Evening,500,600,700, Good, Yes
+447, 10/22/2024 19:17:00, Mock Neck Sweater, Wool, Cozy Winter, Mumbai, Winter,700,800,900, Good, Yes
+448, 10/22/2024 19:18:45, Sweatpants, Cotton, Relaxed Fit, Bangalore, Casual,350,400,450, Good, Yes
+449, 10/22/2024 19:20:30, Kaftan Dress, Silk, Stylish and Comfortable, Surat, All time,800,900,1000, Good, Yes
+450, 10/22/2024 19:22:15, High Waist Jeans, Denim, Trendy Fit, Hyderabad, Casual,600,700,800, Good, Yes
+451, 10/22/2024 19:24:00, Off-Shoulder Top, Cotton, Summer Style, Pune, Casual,300,350,400, Good, Yes
+452, 10/22/2024 19:25:45, Longline Blazer, Linen, Office Chic, Coimbatore, Formal,800,900,1000, Good, Yes
+453, 10/22/2024 19:27:30, Peplum Blouse, Silk, Evening Elegance, Chennai, Party,550,600,650, Good, Yes
+454, 10/22/2024 19:29:15, Cropped Jeans, Denim, Casual Essential, Kolkata, Daily,400,450,500, Good, Yes
+455, 10/22/2024 19:31:00, Pinafore Dress, Cotton, Youthful Style, Bangalore, Casual,500,600,700, Good, Yes
+456, 10/22/2024 19:32:45, Turtleneck Sweater, Wool, Winter Warmth, Jaipur, Winter,600,700,800, Good, Yes
+457, 10/22/2024 19:34:30, Boho Dress, Rayon, Festival Vibes, Delhi, Casual,500,550,600, Good, Yes
+458, 10/22/2024 19:36:15, Denim Shorts, Cotton, Summer Casual, Mumbai, Casual,350,400,450, Good, Yes
+459, 10/22/2024 19:38:00, Flared Pants, Polyester, Retro Look, Surat, Party,600,700,800, Good, Yes
+460, 10/22/2024 19:39:45, Sheath Dress, Silk, Evening Glamour, Bangalore, Formal,900,1000,1100, Good, Yes
+461, 10/22/2024 19:41:30, Hooded Jacket, Polyester, Outdoor Comfort, Delhi, Winter,800,900,1000, Good, Yes
+462, 10/22/2024 19:43:15, Palazzo Pants, Cotton, Breezy Fit, Hyderabad, Casual,500,600,700, Good, Yes
+463, 10/22/2024 19:45:00, Off-Shoulder Dress, Rayon, Summer Chic, Chennai, Party,600,700,800, Good, Yes
+464, 10/22/2024 19:46:45, Kimono Wrap, Silk, Elegant Layer, Kolkata, Evening,700,800,900, Good, Yes
+465, 10/22/2024 19:48:30, Bodycon Dress, Polyester, Slim Fit, Pune, Evening,550,600,650, Good, Yes
+466, 10/22/2024 19:50:15, Jogger Pants, Cotton, Casual Comfort, Jaipur, Daily,400,450,500, Good, Yes
+467, 10/22/2024 19:52:00, Blazer Dress, Wool, Winter Elegance, Mumbai, Formal,1200,1300,1400, Good, Yes
+468, 10/22/2024 19:53:45, Churidar, Silk, Traditional Wear, Delhi, Wedding,800,900,1000, Good, Yes
+469, 10/22/2024 19:55:30, Cold Shoulder Top, Chiffon, Trendy Style, Surat, Casual,400,450,500, Good, Yes
+470, 10/22/2024 19:57:15, Pencil Dress, Cotton, Office Ready, Bangalore, Formal,650,700,750, Good, Yes
+471, 10/22/2024 19:59:00, Cargo Jacket, Polyester, Utility Fashion, Hyderabad, Winter,900,1000,1100, Good, Yes
+472, 10/22/2024 20:00:45, Tiered Skirt, Georgette, Layered Look, Pune, Evening,700,800,900, Good, Yes
+473, 10/22/2024 20:02:30, Boxy Top, Cotton, Casual Ease, Chennai, Daily,350,400,450, Good, Yes
+474, 10/22/2024 20:04:15, Mesh Dress, Polyester, Evening Glam, Kolkata, Party,1000,1100,1200, Good, Yes
+475, 10/22/2024 20:06:00, Flannel Pajamas, Cotton, Cozy Comfort, Mumbai, Winter,500,550,600, Good, Yes
+476, 10/22/2024 20:07:45, Sequin Dress, Satin, Sparkling Look, Delhi, Party,1200,1300,1400, Good, Yes
+477, 10/22/2024 20:09:30, Lace Blouse, Silk, Feminine Flair, Bangalore, Evening,600,650,700, Good, Yes
+478, 10/22/2024 20:11:15, Knit Sweater, Wool, Winter Warmth, Jaipur, Winter,800,900,1000, Good, Yes
+479, 10/22/2024 20:13:00, Track Pants, Polyester, Sports Style, Hyderabad, Sports,400,450,500, Good, Yes
+480, 10/22/2024 20:14:45, Crop Top, Cotton, Summer Essential, Surat, Casual,300,350,400, Good, Yes
+481, 10/22/2024 20:16:30, Maxi Dress, Georgette, Flowing Fashion, Pune, Evening,900,1000,1100, Good, Yes
+482, 10/22/2024 20:18:15, Bomber Vest, Polyester, Sporty Layer, Bangalore, Casual,600,650,700, Good, Yes
+483, 10/22/2024 20:20:00, Wide-Leg Pants, Linen, Elegant Look, Chennai, Casual,500,600,700, Good, Yes
+484, 10/22/2024 20:21:45, Romper, Rayon, Playful Style, Delhi, Casual,400,450,500, Good, Yes
+485, 10/22/2024 20:23:30, Satin Blouse, Silk, Elegant Sheen, Kolkata, Evening,600,700,800, Good, Yes
+486, 10/22/2024 20:25:15, Jogging Suit, Polyester, Sport Comfort, Hyderabad, Sports,800,900,1000, Good, Yes
+487, 10/22/2024 20:27:00, Shift Dress, Cotton, Casual Comfort, Pune, Daily,450,500,550, Good, Yes
+488, 10/22/2024 20:28:45, Faux Fur Coat, Wool, Winter Luxury, Jaipur, Winter,1500,1600,1700, Good, Yes
+489, 10/22/2024 20:30:30, Tie-Dye Shirt, Cotton, Summer Vibes, Surat, Casual,300,350,400, Good, Yes
+490, 10/22/2024 20:32:15, Linen Shorts, Linen, Lightweight Fit, Mumbai, Summer,350,400,450, Good, Yes
+491, 10/22/2024 20:34:00, Embroidered Kurti, Cotton, Ethnic Wear, Delhi, All time,600,700,800, Good, Yes
+492, 10/22/2024 20:35:45, Silk Gown, Silk, Formal Elegance, Bangalore, Wedding,2000,2200,2400, Good, Yes
+493, 10/22/2024 20:37:30, Tapered Trousers, Polyester, Office Look, Hyderabad, Formal,550,600,650, Good, Yes
+494, 10/22/2024 20:39:15, Off-Shoulder Blouse, Cotton, Trendy Style, Chennai, Party,400,450,500, Good, Yes
+495, 10/22/2024 20:41:00, Dungarees, Denim, Playful Look, Kolkata, Casual,500,550,600, Good, Yes
+496, 10/22/2024 20:42:45, Parka Jacket, Polyester, Winter Warmth, Pune, Winter,1200,1300,1400, Good, Yes
+497, 10/22/2024 20:44:30, Ruffle Skirt, Georgette, Layered Elegance, Surat, Evening,650,700,750, Good, Yes
+498, 10/22/2024 20:46:15, V-Neck Sweater, Wool, Winter Casual, Mumbai, Winter,800,900,1000, Good, Yes
+499, 10/22/2024 20:48:00, Cargo Shorts, Cotton, Outdoor Comfort, Jaipur, Casual,400,450,500, Good, Yes
+500, 10/22/2024 20:49:45, Bell-Bottom Pants, Denim, Retro Style, Bangalore, Casual,600,700,800, Good, Yes

@@ -1,0 +1,494 @@
+item number,timestamp,item,material,supplier,location,season,cost price,sale price,mrp,quality,availability,competitor price,price_difference,price_status
+1,10/22/2024 15:20:18,Cotton saree,Cotton,Emco textiles,Jetpur,Summer,300,330,400,Good,Yes,300,30,Competitive
+2,10/22/2024 15:22:35,Blouse piece,Cotton,Shree fabrics,Pali,All time,40,50,70,Good,Yes,999,-949,Underpriced
+3,10/22/2024 15:24:56,Lungi,Cotton,Shree Ram textiles,Erode,All time,100,120,150,Good,Yes,949,-829,Underpriced
+4,10/22/2024 15:26:32,Saree,Silk,Sri Lakshmi silks,Surat,Marriage,600,700,900,Good,Yes,670,30,Competitive
+5,10/22/2024 15:28:47,Churidhar,Cotton,Vasanth textiles,Tirupur,All time,250,300,400,Good,Yes,699,-399,Underpriced
+6,10/22/2024 15:30:05,Bedsheet,Cotton,RR Textiles,Surat,All time,180,210,250,Good,Yes,697,-487,Underpriced
+7,10/22/2024 15:32:18,Handkerchief,Cotton,Sai Ram fabrics,Tirupur,All time,20,25,40,Good,Yes,369,-344,Underpriced
+8,10/22/2024 15:34:06,Saree,Chiffon,Ravi textiles,Surat,All time,400,450,600,Good,Yes,420,30,Competitive
+9,10/22/2024 15:36:42,Pillow cover,Cotton,RSN textiles,Erode,All time,30,40,50,Good,Yes,269,-229,Underpriced
+10,10/22/2024 15:38:54,Shirt,Cotton,Sri Velavan textiles,Erode,All time,200,230,300,Good,Yes,599,-369,Underpriced
+11,10/22/2024 15:41:12,Blouse,Cotton,Sathya textiles,Pali,All time,70,80,100,Good,Yes,389,-309,Underpriced
+12,10/22/2024 15:43:25,Kurti,Rayon,Swastik textiles,Jaipur,Winter,320,350,450,Good,Yes,320,30,Competitive
+13,10/22/2024 15:45:18,Pajamas,Cotton,Vimal textiles,Ahmedabad,All time,150,170,200,Good,Yes,649,-479,Underpriced
+14,10/22/2024 15:47:03,Skirt,Silk,Amrit textiles,Surat,Summer,420,470,550,Good,Yes,440,30,Competitive
+15,10/22/2024 15:48:59,Bedsheet,Linen,Sadhna textiles,Jaipur,All time,250,280,350,Good,Yes,697,-417,Underpriced
+16,10/22/2024 15:51:01,Towel,Cotton,Sri textiles,Karur,All time,100,110,150,Good,Yes,80,30,Competitive
+17,10/22/2024 15:52:43,Dupatta,Georgette,Rajesh textiles,Pali,Summer,180,210,300,Good,Yes,1679,-1469,Underpriced
+18,10/22/2024 15:54:18,Saree,Cotton,Amba textiles,Bhagalpur,Winter,300,340,450,Good,Yes,310,30,Competitive
+19,10/22/2024 15:56:05,Nighty,Silk,Manav textiles,Surat,All time,400,450,600,Good,Yes,474,-24,Competitive
+20,10/22/2024 15:58:22,T-shirt,Cotton,Sri Velavan textiles,Erode,All time,220,250,300,Good,Yes,599,-349,Underpriced
+21,10/22/2024 16:00:18,Scarf,Wool,Sharma textiles,Ludhiana,Winter,150,180,220,Good,Yes,1679,-1499,Underpriced
+22,10/22/2024 16:02:45,Suit,Linen,Shree fabrics,Surat,All time,500,550,700,Good,Yes,520,30,Competitive
+23,10/22/2024 16:04:22,Shawl,Pashmina,Sri Kashmir Handlooms,Srinagar,Winter,1000,1200,1500,Good,Yes,1170,30,Competitive
+24,10/22/2024 16:06:30,Dupatta,Chiffon,Om textiles,Jaipur,All time,180,220,300,Good,Yes,1679,-1459,Underpriced
+25,10/22/2024 16:08:05,Socks,Wool,RR textiles,Ludhiana,Winter,50,60,80,Good,Yes,178,-118,Underpriced
+26,10/22/2024 16:10:14,Saree,Silk,Balaji textiles,Surat,Marriage,650,700,900,Good,Yes,670,30,Competitive
+27,10/22/2024 16:12:38,Jeans,Denim,Denim World,Bangalore,All time,400,450,600,Good,Yes,1649,-1199,Underpriced
+28,10/22/2024 16:14:52,Kurta,Cotton,Swastik textiles,Jaipur,Summer,320,350,450,Good,Yes,320,30,Competitive
+29,10/22/2024 16:16:45,Jacket,Leather,Leather Craft India,Kanpur,Winter,1500,1700,2000,Good,Yes,899,801,Overpriced
+30,10/22/2024 16:18:30,Towel,Cotton,Sri textiles,Karur,All time,100,120,150,Good,Yes,90,30,Competitive
+31,10/22/2024 16:20:18,Bedsheet,Cotton,RR Textiles,Surat,All time,180,220,280,Good,Yes,599,-379,Underpriced
+32,10/22/2024 16:22:00,Blouse,Cotton,Shree fabrics,Pali,All time,70,90,120,Good,Yes,389,-299,Underpriced
+33,10/22/2024 16:24:05,Skirt,Linen,Royal Fabrics,Ahmedabad,Summer,200,230,260,Good,Yes,329,-99,Underpriced
+41,10/22/2024 16:40:25,Kurta,Cotton,Vasanth Textiles,Tirupur,Summer,320,360,450,Good,Yes,330,30,Competitive
+42,10/22/2024 16:42:10,Bedsheet,Linen,Sadhna Textiles,Jaipur,All time,250,280,350,Good,Yes,599,-319,Underpriced
+43,10/22/2024 16:44:05,T-shirt,Cotton,Sri Velavan Textiles,Erode,All time,220,260,300,Good,Yes,230,30,Competitive
+44,10/22/2024 16:46:12,Pajamas,Rayon,Vimal Textiles,Ahmedabad,All time,170,200,250,Good,Yes,649,-449,Underpriced
+45,10/22/2024 16:48:25,Dupatta,Silk,Balaji Textiles,Surat,All time,280,320,400,Good,Yes,237,83,Overpriced
+46,10/22/2024 16:50:38,Scarf,Cotton,RR Textiles,Surat,Summer,120,150,200,Good,Yes,120,30,Competitive
+47,10/22/2024 16:52:52,Nighty,Silk,Manav Textiles,Surat,All time,400,450,600,Good,Yes,1048,-598,Underpriced
+48,10/22/2024 16:54:39,Skirt,Chiffon,Ravi Textiles,Surat,All time,300,340,420,Good,Yes,310,30,Competitive
+49,10/22/2024 16:56:30,Blouse,Cotton,Shree Fabrics,Pali,All time,80,100,120,Good,Yes,389,-289,Underpriced
+50,10/22/2024 16:58:40,Lungi,Cotton,Shree Ram Textiles,Erode,All time,100,130,160,Good,Yes,899,-769,Underpriced
+51,10/22/2024 17:00:20,Dupatta,Georgette,Om Textiles,Jaipur,Summer,180,220,300,Good,Yes,1679,-1459,Underpriced
+52,10/22/2024 17:02:15,Saree,Chiffon,Ravi Textiles,Surat,All time,400,450,600,Good,Yes,420,30,Competitive
+53,10/22/2024 17:04:10,Pillow cover,Cotton,RSN Textiles,Erode,All time,30,40,60,Good,Yes,269,-229,Underpriced
+54,10/22/2024 17:06:22,Shirt,Cotton,Sri Velavan Textiles,Erode,All time,200,230,280,Good,Yes,599,-369,Underpriced
+55,10/22/2024 17:08:35,Kurta,Rayon,Swastik Textiles,Jaipur,Summer,300,340,400,Good,Yes,310,30,Competitive
+56,10/22/2024 17:10:55,Pajamas,Linen,Vimal Textiles,Ahmedabad,All time,200,230,280,Good,Yes,649,-419,Underpriced
+57,10/22/2024 17:12:30,Nighty,Cotton,Manav Textiles,Surat,All time,350,400,500,Good,Yes,370,30,Competitive
+58,10/22/2024 17:14:12,Bedsheet,Cotton,RR Textiles,Surat,All time,200,240,300,Good,Yes,620,-380,Underpriced
+59,10/22/2024 17:16:30,Saree,Silk,Balaji Textiles,Surat,Marriage,600,650,850,Good,Yes,620,30,Competitive
+60,10/22/2024 17:18:40,Handkerchief,Cotton,Sai Ram Fabrics,Tirupur,All time,20,30,40,Good,Yes,699,-669,Underpriced
+61,10/22/2024 17:20:15,T-shirt,Cotton,Sri Velavan Textiles,Erode,All time,220,250,300,Good,Yes,1399,-1149,Underpriced
+62,10/22/2024 17:22:30,Pajamas,Rayon,Vimal Textiles,Ahmedabad,All time,160,180,250,Good,Yes,899,-719,Underpriced
+63,10/22/2024 17:24:10,Saree,Silk,Emco Textiles,Jetpur,Marriage,700,750,950,Good,Yes,720,30,Competitive
+64,10/22/2024 17:26:05,Lungi,Cotton,Shree Ram Textiles,Erode,All time,100,120,150,Good,Yes,90,30,Competitive
+65,10/22/2024 17:28:20,Bedsheet,Cotton,RR Textiles,Surat,All time,180,210,250,Good,Yes,939,-729,Underpriced
+66,10/22/2024 17:30:40,Saree,Silk,Sri Lakshmi Silks,Surat,Marriage,650,700,900,Good,Yes,1999,-1299,Underpriced
+67,10/22/2024 17:32:12,Blouse,Cotton,Sathya Textiles,Pali,All time,70,90,110,Good,Yes,389,-299,Underpriced
+68,10/22/2024 17:34:05,Pillow cover,Cotton,RSN Textiles,Erode,All time,30,40,60,Good,Yes,265,-225,Underpriced
+69,10/22/2024 17:36:22,Shirt,Cotton,Sri Velavan Textiles,Erode,All time,200,220,280,Good,Yes,1599,-1379,Underpriced
+70,10/22/2024 17:38:35,Blouse,Silk,Shree Fabrics,Pali,All time,120,140,180,Good,Yes,389,-249,Underpriced
+71,10/22/2024 17:40:18,Kurta,Cotton,Vasanth Textiles,Tirupur,Summer,320,360,450,Good,Yes,330,30,Competitive
+72,10/22/2024 17:42:05,Skirt,Linen,Royal Fabrics,Ahmedabad,Summer,220,250,300,Good,Yes,329,-79,Underpriced
+73,10/22/2024 17:44:20,Saree,Chiffon,Ravi Textiles,Surat,All time,400,450,600,Good,Yes,420,30,Competitive
+74,10/22/2024 17:46:10,Dupatta,Silk,Balaji Textiles,Surat,All time,280,320,400,Good,Yes,237,83,Overpriced
+75,10/22/2024 17:48:25,Lungi,Cotton,Shree Ram Textiles,Erode,All time,100,130,150,Good,Yes,799,-669,Underpriced
+76,10/22/2024 17:50:30,Handkerchief,Cotton,Sai Ram Fabrics,Tirupur,All time,20,25,40,Good,Yes,294,-269,Underpriced
+77,10/22/2024 17:52:12,Towel,Cotton,Sri Textiles,Karur,All time,100,120,150,Good,Yes,511,-391,Underpriced
+78,10/22/2024 17:54:05,Skirt,Rayon,Royal Fabrics,Ahmedabad,Summer,240,280,350,Good,Yes,329,-49,Underpriced
+79,10/22/2024 17:56:20,Kurta,Linen,Swastik Textiles,Jaipur,Summer,300,340,450,Good,Yes,310,30,Competitive
+80,10/22/2024 17:58:30,Pajamas,Cotton,Vimal Textiles,Ahmedabad,All time,150,170,200,Good,Yes,140,30,Competitive
+81,10/22/2024 18:00:15,Bedsheet,Cotton,RR Textiles,Surat,All time,180,210,250,Good,Yes,599,-389,Underpriced
+82,10/22/2024 18:02:20,Saree,Silk,Sri Lakshmi Silks,Surat,Marriage,700,750,900,Good,Yes,720,30,Competitive
+83,10/22/2024 18:04:10,Dupatta,Cotton,Om Textiles,Jaipur,Summer,200,240,300,Good,Yes,1679,-1439,Underpriced
+84,10/22/2024 18:06:22,Shirt,Linen,Sri Velavan Textiles,Erode,All time,250,280,350,Good,Yes,879,-599,Underpriced
+85,10/22/2024 18:08:05,Pillow cover,Cotton,RSN Textiles,Erode,All time,40,50,70,Good,Yes,497,-447,Underpriced
+86,10/22/2024 18:10:15,Kurta,Rayon,Vasanth Textiles,Tirupur,Summer,350,380,450,Good,Yes,350,30,Competitive
+87,10/22/2024 18:12:20,Blouse,Cotton,Shree Fabrics,Pali,All time,70,90,120,Good,Yes,389,-299,Underpriced
+88,10/22/2024 18:14:05,Handkerchief,Cotton,Sai Ram Fabrics,Tirupur,All time,20,25,40,Good,Yes,294,-269,Underpriced
+89,10/22/2024 18:16:30,Skirt,Chiffon,Ravi Textiles,Surat,All time,300,340,420,Good,Yes,329,11,Competitive
+90,10/22/2024 18:18:15,Pajamas,Linen,Vimal Textiles,Ahmedabad,All time,200,230,300,Good,Yes,649,-419,Underpriced
+91,10/22/2024 18:20:40,Saree,Chiffon,Emco Textiles,Jetpur,All time,450,500,600,Good,Yes,470,30,Competitive
+92,10/22/2024 18:22:10,Bedsheet,Cotton,RR Textiles,Surat,All time,180,220,280,Good,Yes,939,-719,Underpriced
+93,10/22/2024 18:24:05,Shirt,Cotton,Sri Velavan Textiles,Erode,All time,200,230,300,Good,Yes,1599,-1369,Underpriced
+94,10/22/2024 18:26:10,Dupatta,Silk,Balaji Textiles,Surat,All time,280,320,400,Good,Yes,290,30,Competitive
+95,10/22/2024 18:28:05,Lungi,Cotton,Shree Ram Textiles,Erode,All time,100,120,150,Good,Yes,999,-879,Underpriced
+96,10/22/2024 18:30:22,Blouse,Cotton,Shree Fabrics,Pali,All time,70,90,100,Good,Yes,389,-299,Underpriced
+97,10/22/2024 18:32:15,Pajamas,Cotton,Vimal Textiles,Ahmedabad,All time,150,170,220,Good,Yes,649,-479,Underpriced
+98,10/22/2024 18:34:10,Handkerchief,Cotton,Sai Ram Fabrics,Tirupur,All time,20,25,35,Good,Yes,699,-674,Underpriced
+99,10/22/2024 18:36:30,Skirt,Chiffon,Ravi Textiles,Surat,All time,300,350,420,Good,Yes,299,51,Overpriced
+100,10/22/2024 18:38:25,Bedsheet,Linen,Sadhna Textiles,Jaipur,All time,250,280,350,Good,Yes,939,-659,Underpriced
+101,10/22/2024 18:40:10,T-shirt,Cotton,Sri Velavan Textiles,Erode,All time,200,230,300,Good,Yes,799,-569,Underpriced
+102,10/22/2024 18:42:15,Lungi,Cotton,Shree Ram Textiles,Erode,All time,110,140,180,Good,Yes,799,-659,Underpriced
+103,10/22/2024 18:44:05,Pajamas,Rayon,Vimal Textiles,Ahmedabad,Summer,180,210,250,Good,Yes,180,30,Competitive
+104,10/22/2024 18:46:15,Kurta,Linen,Swastik Textiles,Jaipur,Summer,320,360,450,Good,Yes,330,30,Competitive
+105,10/22/2024 18:48:25,Dupatta,Silk,Balaji Textiles,Surat,All time,280,320,400,Good,Yes,237,83,Overpriced
+106,10/22/2024 18:50:05,Saree,Silk,Sri Lakshmi Silks,Surat,Marriage,650,700,850,Good,Yes,670,30,Competitive
+107,10/22/2024 18:52:30,Handkerchief,Cotton,Sai Ram Fabrics,Tirupur,All time,20,25,40,Good,Yes,198,-173,Underpriced
+108,10/22/2024 18:54:15,Pillow cover,Cotton,RSN Textiles,Erode,All time,30,40,50,Good,Yes,497,-457,Underpriced
+109,10/22/2024 18:56:10,Shirt,Linen,Sri Velavan Textiles,Erode,All time,250,280,350,Good,Yes,599,-319,Underpriced
+110,10/22/2024 18:58:20,Bedsheet,Cotton,RR Textiles,Surat,All time,180,210,260,Good,Yes,630,-420,Underpriced
+111,10/22/2024 19:00:05,Saree,Chiffon,Ravi Textiles,Surat,All time,400,450,600,Good,Yes,420,30,Competitive
+112,10/22/2024 19:02:15,Skirt,Linen,Royal Fabrics,Ahmedabad,Summer,220,250,320,Good,Yes,299,-49,Underpriced
+113,10/22/2024 19:04:05,Pajamas,Cotton,Vimal Textiles,Ahmedabad,All time,150,180,250,Good,Yes,649,-469,Underpriced
+114,10/22/2024 19:06:10,Kurta,Rayon,Vasanth Textiles,Tirupur,Summer,340,380,450,Good,Yes,660,-280,Underpriced
+115,10/22/2024 19:08:15,Blouse,Cotton,Sathya Textiles,Pali,All time,70,90,120,Good,Yes,60,30,Competitive
+116,10/22/2024 19:10:25,Saree,Silk,Emco Textiles,Jetpur,Marriage,700,750,950,Good,Yes,720,30,Competitive
+117,10/22/2024 19:12:15,Dupatta,Cotton,Om Textiles,Jaipur,Summer,200,230,300,Good,Yes,237,-7,Competitive
+118,10/22/2024 19:14:10,Lungi,Cotton,Shree Ram Textiles,Erode,All time,110,140,180,Good,Yes,298,-158,Underpriced
+119,10/22/2024 19:16:05,Blouse,Silk,Shree Fabrics,Pali,All time,130,150,200,Good,Yes,449,-299,Underpriced
+120,10/22/2024 19:18:20,Skirt,Chiffon,Ravi Textiles,Surat,All time,300,340,420,Good,Yes,299,41,Overpriced
+121,10/22/2024 19:20:05,T-shirt,Cotton,Sri Velavan Textiles,Erode,All time,200,230,300,Good,Yes,1399,-1169,Underpriced
+122,10/22/2024 19:22:10,Kurta,Linen,Swastik Textiles,Jaipur,Summer,320,360,450,Good,Yes,330,30,Competitive
+123,10/22/2024 19:24:15,Bedsheet,Cotton,RR Textiles,Surat,All time,180,210,260,Good,Yes,599,-389,Underpriced
+124,10/22/2024 19:26:05,Pillow cover,Cotton,RSN Textiles,Erode,All time,30,40,50,Good,Yes,265,-225,Underpriced
+125,10/22/2024 19:28:15,Blouse,Cotton,Shree Fabrics,Pali,All time,70,90,120,Good,Yes,60,30,Competitive
+126,10/22/2024 19:30:05,Dupatta,Silk,Balaji Textiles,Surat,All time,280,320,400,Good,Yes,1679,-1359,Underpriced
+127,10/22/2024 19:32:10,Lungi,Cotton,Shree Ram Textiles,Erode,All time,110,130,160,Good,Yes,100,30,Competitive
+128,10/22/2024 19:34:05,Shirt,Linen,Sri Velavan Textiles,Erode,All time,250,280,350,Good,Yes,599,-319,Underpriced
+129,10/22/2024 19:36:15,Saree,Chiffon,Ravi Textiles,Surat,All time,400,450,600,Good,Yes,1999,-1549,Underpriced
+130,10/22/2024 19:38:10,Skirt,Linen,Royal Fabrics,Ahmedabad,Summer,220,250,320,Good,Yes,329,-79,Underpriced
+131,10/22/2024 19:40:05,Pajamas,Cotton,Vimal Textiles,Ahmedabad,All time,150,180,250,Good,Yes,649,-469,Underpriced
+132,10/22/2024 19:42:15,Kurta,Rayon,Vasanth Textiles,Tirupur,Summer,340,380,450,Good,Yes,350,30,Competitive
+133,10/22/2024 19:44:05,Handkerchief,Cotton,Sai Ram Fabrics,Tirupur,All time,20,25,40,Good,Yes,699,-674,Underpriced
+134,10/22/2024 19:46:10,Pajamas,Rayon,Vimal Textiles,Ahmedabad,Summer,180,210,250,Good,Yes,499,-289,Underpriced
+135,10/22/2024 19:48:05,Saree,Silk,Sri Lakshmi Silks,Surat,Marriage,650,700,850,Good,Yes,670,30,Competitive
+136,10/22/2024 19:50:10,Blouse,Cotton,Sathya Textiles,Pali,All time,70,90,120,Good,Yes,449,-359,Underpriced
+137,10/22/2024 19:52:15,Bedsheet,Linen,Sadhna Textiles,Jaipur,All time,250,280,350,Good,Yes,630,-350,Underpriced
+138,10/22/2024 19:54:10,Saree,Silk,Emco Textiles,Jetpur,Marriage,700,750,950,Good,Yes,1999,-1249,Underpriced
+139,10/22/2024 19:56:05,Handkerchief,Cotton,Sai Ram Fabrics,Tirupur,All time,20,25,35,Good,Yes,294,-269,Underpriced
+140,10/22/2024 19:58:20,Dupatta,Cotton,Om Textiles,Jaipur,Summer,200,230,300,Good,Yes,630,-400,Underpriced
+141, 10/22/2024 20:00:05, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes,220,30,Competitive
+142, 10/22/2024 20:02:10, Lungi, Cotton, Shree Ram Textiles, Erode, All time,100,130,160, Good, Yes,949,-819,Underpriced
+143, 10/22/2024 20:04:15, Kurta, Linen, Swastik Textiles, Jaipur, Summer,320,360,450, Good, Yes,522,-162,Underpriced
+144, 10/22/2024 20:06:05, Saree, Chiffon, Ravi Textiles, Surat, All time,400,450,600, Good, Yes,420,30,Competitive
+145, 10/22/2024 20:08:15, Blouse, Silk, Shree Fabrics, Pali, All time,130,150,200, Good, Yes,539,-389,Underpriced
+146, 10/22/2024 20:10:05, Dupatta, Cotton, Balaji Textiles, Surat, Summer,280,320,400, Good, Yes,630,-310,Underpriced
+147, 10/22/2024 20:12:10, Pillow cover, Cotton, RSN Textiles, Erode, All time,30,40,50, Good, Yes,265,-225,Underpriced
+148, 10/22/2024 20:14:05, Bedsheet, Cotton, RR Textiles, Surat, All time,200,230,300, Good, Yes,599,-369,Underpriced
+149, 10/22/2024 20:16:10, Skirt, Linen, Royal Fabrics, Ahmedabad, Summer,250,280,350, Good, Yes,250,30,Competitive
+150, 10/22/2024 20:18:05, Pajamas, Cotton, Vimal Textiles, Ahmedabad, All time,150,180,250, Good, Yes,899,-719,Underpriced
+151, 10/22/2024 20:20:10, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes,499,-249,Underpriced
+152, 10/22/2024 20:22:15, Kurta, Rayon, Vasanth Textiles, Tirupur, Summer,340,380,450, Good, Yes,350,30,Competitive
+153, 10/22/2024 20:24:05, Handkerchief, Cotton, Sai Ram Fabrics, Tirupur, All time,20,25,35, Good, Yes,369,-344,Underpriced
+154, 10/22/2024 20:26:10, Saree, Silk, Sri Lakshmi Silks, Surat, Marriage,650,700,850, Good, Yes,670,30,Competitive
+155, 10/22/2024 20:28:15, Dupatta, Silk, Emco Textiles, Jetpur, All time,280,320,400, Good, Yes,1679,-1359,Underpriced
+156, 10/22/2024 20:30:10, Blouse, Cotton, Sathya Textiles, Pali, All time,70,90,120, Good, Yes,60,30,Competitive
+157, 10/22/2024 20:32:15, Pajamas, Cotton, Vimal Textiles, Ahmedabad, Summer,150,180,250, Good, Yes,900,-720,Underpriced
+158, 10/22/2024 20:34:10, Skirt, Chiffon, Ravi Textiles, Surat, All time,300,340,420, Good, Yes,399,-59,Underpriced
+159, 10/22/2024 20:36:15, Shirt, Linen, Sri Velavan Textiles, Erode, All time,250,280,350, Good, Yes,599,-319,Underpriced
+160, 10/22/2024 20:38:10, Bedsheet, Cotton, RR Textiles, Surat, All time,180,210,260, Good, Yes,663,-453,Underpriced
+161, 10/22/2024 20:40:05, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes,499,-249,Underpriced
+162, 10/22/2024 20:42:10, Lungi, Cotton, Shree Ram Textiles, Erode, All time,100,130,160, Good, Yes,899,-769,Underpriced
+163, 10/22/2024 20:44:15, Kurta, Linen, Swastik Textiles, Jaipur, Summer,320,360,450, Good, Yes,330,30,Competitive
+164, 10/22/2024 20:46:05, Saree, Chiffon, Ravi Textiles, Surat, All time,400,450,600, Good, Yes,420,30,Competitive
+165, 10/22/2024 20:48:15, Blouse, Silk, Shree Fabrics, Pali, All time,130,150,200, Good, Yes,799,-649,Underpriced
+166, 10/22/2024 20:50:05, Dupatta, Cotton, Balaji Textiles, Surat, Summer,280,320,400, Good, Yes,1679,-1359,Underpriced
+167, 10/22/2024 20:52:10, Pillow cover, Cotton, RSN Textiles, Erode, All time,30,40,50, Good, Yes,497,-457,Underpriced
+168, 10/22/2024 20:54:05, Bedsheet, Cotton, RR Textiles, Surat, All time,200,230,300, Good, Yes,200,30,Competitive
+169, 10/22/2024 20:56:10, Skirt, Linen, Royal Fabrics, Ahmedabad, Summer,250,280,350, Good, Yes,329,-49,Underpriced
+170, 10/22/2024 20:58:05, Pajamas, Cotton, Vimal Textiles, Ahmedabad, All time,150,180,250, Good, Yes,649,-469,Underpriced
+171, 10/22/2024 21:00:10, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes,599,-349,Underpriced
+172, 10/22/2024 21:02:15, Kurta, Rayon, Vasanth Textiles, Tirupur, Summer,340,380,450, Good, Yes,350,30,Competitive
+173, 10/22/2024 21:04:05, Handkerchief, Cotton, Sai Ram Fabrics, Tirupur, All time,20,25,35, Good, Yes,294,-269,Underpriced
+174, 10/22/2024 21:06:10, Saree, Silk, Sri Lakshmi Silks, Surat, Marriage,650,700,850, Good, Yes,670,30,Competitive
+175, 10/22/2024 21:08:15, Dupatta, Silk, Emco Textiles, Jetpur, All time,280,320,400, Good, Yes,1679,-1359,Underpriced
+176, 10/22/2024 21:10:10, Blouse, Cotton, Sathya Textiles, Pali, All time,70,90,120, Good, Yes,389,-299,Underpriced
+177, 10/22/2024 21:12:15, Pajamas, Cotton, Vimal Textiles, Ahmedabad, Summer,150,180,250, Good, Yes,669,-489,Underpriced
+178, 10/22/2024 21:14:10, Skirt, Chiffon, Ravi Textiles, Surat, All time,300,340,420, Good, Yes,329,11,Competitive
+179, 10/22/2024 21:16:15, Shirt, Linen, Sri Velavan Textiles, Erode, All time,250,280,350, Good, Yes,639,-359,Underpriced
+180, 10/22/2024 21:18:10, Bedsheet, Cotton, RR Textiles, Surat, All time,180,210,260, Good, Yes,599,-389,Underpriced
+181, 10/22/2024 21:20:05, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes,599,-349,Underpriced
+182, 10/22/2024 21:22:10, Lungi, Cotton, Shree Ram Textiles, Erode, All time,100,130,160, Good, Yes,298,-168,Underpriced
+183, 10/22/2024 21:24:15, Kurta, Linen, Swastik Textiles,Surat,All time,140,170,200,Good,Yes,140,30,Competitive
+184, 10/22/2024 21:26:05, Saree, Chiffon, Ravi Textiles, Surat, All time,400,450,600, Good, Yes,420,30,Competitive
+185, 10/22/2024 21:28:15, Blouse, Silk, Shree Fabrics, Pali, All time,130,150,200, Good, Yes,539,-389,Underpriced
+186, 10/22/2024 21:30:05, Dupatta, Cotton, Balaji Textiles, Surat, Summer,280,320,400, Good, Yes,1679,-1359,Underpriced
+187, 10/22/2024 21:32:10, Pillow cover, Cotton, RSN Textiles, Erode, All time,30,40,50, Good, Yes,10,30,Competitive
+188, 10/22/2024 21:34:05, Bedsheet, Cotton, RR Textiles, Surat, All time,200,230,300, Good, Yes,663,-433,Underpriced
+189, 10/22/2024 21:36:10, Skirt, Linen, Royal Fabrics, Ahmedabad, Summer,250,280,350, Good, Yes,329,-49,Underpriced
+190, 10/22/2024 21:38:05, Pajamas, Cotton, Vimal Textiles, Ahmedabad, All time,150,180,250, Good, Yes,669,-489,Underpriced
+191, 10/22/2024 21:40:10, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes,220,30,Competitive
+192, 10/22/2024 21:42:15, Kurta, Rayon, Vasanth Textiles, Tirupur, Summer,340,380,450, Good, Yes,350,30,Competitive
+193, 10/22/2024 21:44:05, Handkerchief, Cotton, Sai Ram Fabrics, Tirupur, All time,20,25,35, Good, Yes,0,25,Competitive
+194, 10/22/2024 21:46:10, Saree, Silk, Sri Lakshmi Silks, Surat, Marriage,650,700,850, Good, Yes,1539,-839,Underpriced
+195, 10/22/2024 21:48:15, Dupatta, Silk, Emco Textiles, Jetpur, All time,280,320,400, Good, Yes,237,83,Overpriced
+196, 10/22/2024 21:50:10, Blouse, Cotton, Sathya Textiles, Pali, All time,70,90,120, Good, Yes,60,30,Competitive
+197, 10/22/2024 21:52:15, Pajamas, Cotton, Vimal Textiles, Ahmedabad, Summer,150,180,250, Good, Yes,899,-719,Underpriced
+198, 10/22/2024 21:54:10, Skirt, Chiffon, Ravi Textiles, Surat, All time,300,340,420, Good, Yes,329,11,Competitive
+199, 10/22/2024 21:56:15, Shirt, Linen, Sri Velavan Textiles, Erode, All time,250,280,350, Good, Yes,879,-599,Underpriced
+200, 10/22/2024 21:58:10, Bedsheet, Cotton, RR Textiles, Surat, All time,180,210,260, Good, Yes,599,-389,Underpriced
+201, 10/22/2024 22:00:05, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes,1399,-1149,Underpriced
+202, 10/22/2024 22:02:10, Lungi, Cotton, Shree Ram Textiles, Erode, All time,100,130,160, Good, Yes,298,-168,Underpriced
+203, 10/22/2024 22:04:15, Kurta, Linen, Swastik Textiles, Jaipur, Summer,320,360,450, Good, Yes,330,30,Competitive
+204, 10/22/2024 22:06:05, Saree, Chiffon, Ravi Textiles, Surat, All time,400,450,600, Good, Yes,420,30,Competitive
+205, 10/22/2024 22:08:15, Blouse, Silk, Shree Fabrics, Pali, All time,130,150,200, Good, Yes,539,-389,Underpriced
+206, 10/22/2024 22:10:05, Dupatta, Cotton, Balaji Textiles, Surat, Summer,280,320,400, Good, Yes,1679,-1359,Underpriced
+207, 10/22/2024 22:12:10, Pillow cover, Cotton, RSN Textiles, Erode, All time,30,40,50, Good, Yes,497,-457,Underpriced
+208, 10/22/2024 22:14:05, Bedsheet, Cotton, RR Textiles, Surat, All time,200,230,300, Good, Yes,599,-369,Underpriced
+209, 10/22/2024 22:16:10, Skirt, Linen, Royal Fabrics, Ahmedabad, Summer,250,280,350, Good, Yes,329,-49,Underpriced
+210, 10/22/2024 22:18:05, Pajamas, Cotton, Vimal Textiles, Ahmedabad, All time,150,180,250, Good, Yes,899,-719,Underpriced
+211, 10/22/2024 22:20:10, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes,599,-349,Underpriced
+212, 10/22/2024 22:22:15, Kurta, Rayon, Vasanth Textiles, Tirupur, Summer,340,380,450, Good, Yes,350,30,Competitive
+213, 10/22/2024 22:24:05, Handkerchief, Cotton, Sai Ram Fabrics, Tirupur, All time,20,25,35, Good, Yes,294,-269,Underpriced
+214, 10/22/2024 22:26:10, Saree, Silk, Sri Lakshmi Silks, Surat, Marriage,650,700,850, Good, Yes,1499,-799,Underpriced
+215, 10/22/2024 22:28:15, Dupatta, Silk, Emco Textiles, Jetpur, All time,280,320,400, Good, Yes,237,83,Overpriced
+216, 10/22/2024 22:30:10, Blouse, Cotton, Sathya Textiles, Pali, All time,70,90,120, Good, Yes,539,-449,Underpriced
+217, 10/22/2024 22:32:15, Pajamas, Cotton, Vimal Textiles, Ahmedabad, Summer,150,180,250, Good, Yes,899,-719,Underpriced
+218, 10/22/2024 22:34:10, Skirt, Chiffon, Ravi Textiles, Surat, All time,300,340,420, Good, Yes,329,11,Competitive
+219, 10/22/2024 22:36:15, Shirt, Linen, Sri Velavan Textiles, Erode, All time,250,280,350, Good, Yes,1599,-1319,Underpriced
+220, 10/22/2024 22:38:10, Bedsheet, Cotton, RR Textiles, Surat, All time,180,210,260, Good, Yes,180,30,Competitive
+221, 10/22/2024 22:40:05, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes,220,30,Competitive
+222, 10/22/2024 22:42:10, Lungi, Cotton, Shree Ram Textiles, Erode, All time,100,130,160, Good, Yes,899,-769,Underpriced
+223, 10/22/2024 22:44:15, Kurta, Linen, Swastik Textiles, Jaipur, Summer,320,360,450, Good, Yes,330,30,Competitive
+224, 10/22/2024 22:46:05, Saree, Chiffon, Ravi Textiles, Surat, All time,400,450,600, Good, Yes,420,30,Competitive
+225, 10/22/2024 22:48:15, Blouse, Silk, Shree Fabrics, Pali, All time,130,150,200, Good, Yes,120,30,Competitive
+226, 10/22/2024 22:50:10, Dupatta, Cotton, Balaji Textiles, Surat, Summer,280,320,400, Good, Yes,450,-130,Underpriced
+227, 10/22/2024 22:52:15, Pillow cover, Cotton, RSN Textiles, Erode, All time,30,40,50, Good, Yes,497,-457,Underpriced
+228, 10/22/2024 22:54:10, Bedsheet, Cotton, RR Textiles, Surat, All time,200,230,300, Good, Yes,599,-369,Underpriced
+229, 10/22/2024 22:56:15, Skirt, Linen, Royal Fabrics, Ahmedabad, Summer,250,280,350, Good, Yes,329,-49,Underpriced
+230, 10/22/2024 22:58:10, Pajamas, Cotton, Vimal Textiles, Ahmedabad, All time,150,180,250, Good, Yes,900,-720,Underpriced
+231, 10/22/2024 23:00:05, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes,1399,-1149,Underpriced
+232, 10/22/2024 23:02:10, Kurta, Rayon, Vasanth Textiles, Tirupur, Summer,340,380,450, Good, Yes,350,30,Competitive
+233, 10/22/2024 23:04:05, Handkerchief, Cotton, Sai Ram Fabrics, Tirupur, All time,20,25,35, Good, Yes,499,-474,Underpriced
+234, 10/22/2024 23:06:10, Saree, Silk, Sri Lakshmi Silks, Surat, Marriage,650,700,850, Good, Yes,670,30,Competitive
+235, 10/22/2024 23:08:15, Dupatta, Silk, Emco Textiles, Jetpur, All time,280,320,400, Good, Yes,237,83,Overpriced
+236, 10/22/2024 23:10:10, Blouse, Cotton, Sathya Textiles, Pali, All time,70,90,120, Good, Yes,60,30,Competitive
+237, 10/22/2024 23:12:15, Pajamas, Cotton, Vimal Textiles, Ahmedabad, Summer,150,180,250, Good, Yes,649,-469,Underpriced
+238, 10/22/2024 23:14:10, Skirt, Chiffon, Ravi Textiles, Surat, All time,300,340,420, Good, Yes,329,11,Competitive
+239, 10/22/2024 23:16:15, Shirt, Linen, Sri Velavan Textiles, Erode, All time,250,280,350, Good, Yes,599,-319,Underpriced
+240, 10/22/2024 23:18:10, Bedsheet, Cotton, RR Textiles, Surat, All time,180,210,260, Good, Yes,663,-453,Underpriced
+241, 10/22/2024 23:20:05, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes,399,-149,Underpriced
+242, 10/22/2024 23:22:10, Lungi, Cotton, Shree Ram Textiles, Erode, All time,100,130,160, Good, Yes,298,-168,Underpriced
+243, 10/22/2024 23:24:15, Kurta, Linen, Swastik Textiles, Jaipur,summer,320,360,450,Good,Yes,1295,-935,Underpriced
+244, 10/22/2024 23:26:05, Saree, Chiffon, Ravi Textiles, Surat, All time,400,450,600, Good, Yes,420,30,Competitive
+245, 10/22/2024 23:28:15, Blouse, Silk, Shree Fabrics, Pali, All time,130,150,200, Good, Yes,539,-389,Underpriced
+246, 10/22/2024 23:30:10, Dupatta, Cotton, Balaji Textiles, Surat, Summer,280,320,400, Good, Yes,1679,-1359,Underpriced
+247, 10/22/2024 23:32:15, Pillow cover, Cotton, RSN Textiles, Erode, All time,30,40,50, Good, Yes,497,-457,Underpriced
+248, 10/22/2024 23:34:10, Bedsheet, Cotton, RR Textiles, Surat, All time,200,230,300, Good, Yes,599,-369,Underpriced
+249, 10/22/2024 23:36:15, Skirt, Linen, Royal Fabrics, Ahmedabad, Summer,250,280,350, Good, Yes,329,-49,Underpriced
+250, 10/22/2024 23:38:10, Pajamas, Cotton, Vimal Textiles, Ahmedabad, All time,150,180,250, Good, Yes,899,-719,Underpriced
+251, 10/22/2024 23:40:05, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes,1399,-1149,Underpriced
+252, 10/22/2024 23:42:10, Lungi, Cotton, Shree Ram Textiles, Erode, All time,100,130,160, Good, Yes,100,30,Competitive
+253, 10/22/2024 23:44:15, Kurta, Linen, Swastik Textiles, Jaipur, Summer,320,360,450, Good, Yes,330,30,Competitive
+254, 10/22/2024 23:46:05, Saree, Chiffon, Ravi Textiles, Surat, All time,400,450,600, Good, Yes,420,30,Competitive
+255, 10/22/2024 23:48:15, Blouse, Silk, Shree Fabrics, Pali, All time,130,150,200, Good, Yes,539,-389,Underpriced
+256, 10/22/2024 23:50:10, Dupatta, Cotton, Balaji Textiles, Surat, Summer,280,320,400, Good, Yes,1679,-1359,Underpriced
+257, 10/22/2024 23:52:15, Pillow cover, Cotton, RSN Textiles, Erode, All time,30,40,50, Good, Yes,265,-225,Underpriced
+258, 10/22/2024 23:54:10, Bedsheet, Cotton, RR Textiles, Surat, All time,200,230,300, Good, Yes,599,-369,Underpriced
+259, 10/22/2024 23:56:15, Skirt, Linen, Royal Fabrics, Ahmedabad, Summer,250,280,350, Good, Yes,329,-49,Underpriced
+260, 10/22/2024 23:58:10, Pajamas, Cotton, Vimal Textiles, Ahmedabad, All time,150,180,250, Good, Yes,649,-469,Underpriced
+261, 10/23/2024 00:00:05, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes,283,-33,Underpriced
+262, 10/23/2024 00:02:10, Kurta, Rayon, Vasanth Textiles, Tirupur, Summer,340,380,450, Good, Yes,1295,-915,Underpriced
+263, 10/23/2024 00:04:05, Handkerchief, Cotton, Sai Ram Fabrics, Tirupur, All time,20,25,35, Good, Yes,549,-524,Underpriced
+264, 10/23/2024 00:06:10, Saree, Silk, Sri Lakshmi Silks, Surat, Marriage,650,700,850, Good, Yes,670,30,Competitive
+265, 10/23/2024 00:08:15, Dupatta, Silk, Emco Textiles, Jetpur, All time,280,320,400, Good, Yes,237,83,Overpriced
+266, 10/23/2024 00:10:10, Blouse, Cotton, Sathya Textiles, Pali, All time,70,90,120, Good, Yes,539,-449,Underpriced
+267, 10/23/2024 00:12:15, Pajamas, Cotton, Vimal Textiles, Ahmedabad, Summer,150,180,250, Good, Yes,649,-469,Underpriced
+268, 10/23/2024 00:14:10, Skirt, Chiffon, Ravi Textiles, Surat, All time,300,340,420, Good, Yes,329,11,Competitive
+269, 10/23/2024 00:16:15, Shirt, Linen, Sri Velavan Textiles, Erode, All time,250,280,350, Good, Yes,1599,-1319,Underpriced
+270, 10/23/2024 00:18:10, Bedsheet, Cotton, RR Textiles, Surat, All time,180,210,260, Good, Yes,939,-729,Underpriced
+271, 10/23/2024 00:20:05, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes,220,30,Competitive
+272, 10/23/2024 00:22:10, Lungi, Cotton, Shree Ram Textiles, Erode, All time,100,130,160, Good, Yes,100,30,Competitive
+273, 10/23/2024 00:24:15, Kurta, Linen, Swastik Textiles, Jaipur, Summer,320,360,450, Good, Yes,330,30,Competitive
+274, 10/23/2024 00:26:05, Saree, Chiffon, Ravi Textiles, Surat, All time,400,450,600, Good, Yes,420,30,Competitive
+275, 10/23/2024 00:28:15, Blouse, Silk, Shree Fabrics, Pali, All time,130,150,200, Good, Yes,539,-389,Underpriced
+276, 10/23/2024 00:30:10, Dupatta, Cotton, Balaji Textiles, Surat, Summer,280,320,400, Good, Yes,237,83,Overpriced
+277, 10/23/2024 00:32:15, Pillow cover, Cotton, RSN Textiles, Erode, All time,30,40,50, Good, Yes,497,-457,Underpriced
+278, 10/23/2024 00:34:10, Bedsheet, Cotton, RR Textiles, Surat, All time,200,230,300, Good, Yes,599,-369,Underpriced
+279, 10/23/2024 00:36:15, Skirt, Linen, Royal Fabrics, Ahmedabad, Summer,250,280,350, Good, Yes,329,-49,Underpriced
+280, 10/23/2024 00:38:10, Pajamas, Cotton, Vimal Textiles, Ahmedabad, All time,150,180,250, Good, Yes,499,-319,Underpriced
+281, 10/23/2024 00:40:05, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes,599,-349,Underpriced
+282, 10/23/2024 00:42:10, Lungi, Cotton, Shree Ram Textiles, Erode, All time,100,130,160, Good, Yes,1199,-1069,Underpriced
+283, 10/23/2024 00:44:15, Kurta, Linen, Swastik Textiles, Jaipur, Summer,320,360,450, Good, Yes,330,30,Competitive
+284, 10/23/2024 00:46:05, Saree, Chiffon, Ravi Textiles, Surat, All time,400,450,600, Good, Yes,420,30,Competitive
+285, 10/23/2024 00:48:15, Blouse, Silk, Shree Fabrics, Pali, All time,130,150,200, Good, Yes,279,-129,Underpriced
+286, 10/23/2024 00:50:10, Dupatta, Cotton, Balaji Textiles, Surat, Summer,280,320,400, Good, Yes,465,-145,Underpriced
+287, 10/23/2024 00:52:15, Pillow cover, Cotton, RSN Textiles, Erode, All time,30,40,50, Good, Yes,497,-457,Underpriced
+288, 10/23/2024 00:54:10, Bedsheet, Cotton, RR Textiles, Surat, All time,200,230,300, Good, Yes,200,30,Competitive
+289, 10/23/2024 00:56:15, Skirt, Linen, Royal Fabrics, Ahmedabad, Summer,250,280,350, Good, Yes,699,-419,Underpriced
+290, 10/23/2024 00:58:10, Pajamas, Cotton, Vimal Textiles, Ahmedabad, All time,150,180,250, Good, Yes,429,-249,Underpriced
+291, 10/23/2024 01:00:05, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes,220,30,Competitive
+292, 10/23/2024 01:02:10, Kurta, Rayon, Vasanth Textiles, Tirupur, Summer,340,380,450, Good, Yes,1799,-1419,Underpriced
+293, 10/23/2024 01:04:05, Handkerchief, Cotton, Sai Ram Fabrics, Tirupur,summer,320,327,450,Good,Yes,499,-172,Underpriced
+294, 10/23/2024 01:06:10, Saree, Silk, Sri Lakshmi Silks, Surat, Marriage,650,700,850, Good, Yes,670,30,Competitive
+295, 10/23/2024 01:08:15, Dupatta, Silk, Emco Textiles, Jetpur, All time,280,320,400, Good, Yes,290,30,Competitive
+296, 10/23/2024 01:10:10, Blouse, Cotton, Sathya Textiles, Pali, All time,70,90,120, Good, Yes,488,-398,Underpriced
+297, 10/23/2024 01:12:15, Pajamas, Cotton, Vimal Textiles, Ahmedabad, Summer,150,180,250, Good, Yes,719,-539,Underpriced
+298, 10/23/2024 01:14:10, Skirt, Chiffon, Ravi Textiles, Surat, All time,300,340,420, Good, Yes,425,-85,Underpriced
+299, 10/23/2024 01:16:15, Shirt, Linen, Sri Velavan Textiles, Erode, All time,250,280,350, Good, Yes,250,30,Competitive
+300, 10/23/2024 01:18:10, Bedsheet, Cotton, RR Textiles, Surat, All time,180,210,260, Good, Yes,180,30,Competitive
+301, 10/23/2024 01:20:15, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes,220,30,Competitive
+302, 10/23/2024 01:22:10, Kurta, Rayon, Vasanth Textiles, Tirupur, Summer,340,380,450, Good, Yes,849,-469,Underpriced
+303, 10/23/2024 01:24:05, Handkerchief, Cotton, Sai Ram Fabrics, Tirupur, All time,20,25,35, Good, Yes,372,-347,Underpriced
+304, 10/23/2024 01:26:10, Saree, Silk, Sri Lakshmi Silks, Surat, Marriage,650,700,850, Good, Yes,670,30,Competitive
+305, 10/23/2024 01:28:15, Dupatta, Silk, Emco Textiles, Jetpur, All time,280,320,400, Good, Yes,290,30,Competitive
+306, 10/23/2024 01:30:10, Blouse, Cotton, Sathya Textiles, Pali, All time,70,90,120, Good, Yes,439,-349,Underpriced
+307, 10/23/2024 01:32:15, Pajamas, Cotton, Vimal Textiles, Ahmedabad, Summer,150,180,250, Good, Yes,669,-489,Underpriced
+308, 10/23/2024 01:34:10, Skirt, Chiffon, Ravi Textiles, Surat, All time,300,340,420, Good, Yes,425,-85,Underpriced
+309, 10/23/2024 01:36:15, Shirt, Linen, Sri Velavan Textiles, Erode, All time,250,280,350, Good, Yes,250,30,Competitive
+310, 10/23/2024 01:38:10, Bedsheet, Cotton, RR Textiles, Surat, All time,180,210,260, Good, Yes,474,-264,Underpriced
+311, 10/23/2024 01:40:05, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes,489,-239,Underpriced
+312, 10/23/2024 01:42:10, Kurta, Rayon, Vasanth Textiles, Tirupur, Summer,340,380,450, Good, Yes,879,-499,Underpriced
+313, 10/23/2024 01:44:05, Handkerchief, Cotton, Sai Ram Fabrics, Tirupur, All time,20,25,35, Good, Yes,372,-347,Underpriced
+314, 10/23/2024 01:46:10, Saree, Silk, Sri Lakshmi Silks, Surat, Marriage,650,700,850, Good, Yes,670,30,Competitive
+315, 10/23/2024 01:48:15, Dupatta, Silk, Emco Textiles, Jetpur, All time,280,320,400, Good, Yes,290,30,Competitive
+316, 10/23/2024 01:50:10, Blouse, Cotton, Sathya Textiles, Pali, All time,70,90,120, Good, Yes,629,-539,Underpriced
+317, 10/23/2024 01:52:15, Pajamas, Cotton, Vimal Textiles, Ahmedabad, Summer,150,180,250, Good, Yes,669,-489,Underpriced
+318, 10/23/2024 01:54:10, Skirt, Chiffon, Ravi Textiles, Surat, All time,300,340,420, Good, Yes,425,-85,Underpriced
+319, 10/23/2024 01:56:15, Shirt, Linen, Sri Velavan Textiles, Erode, All time,250,280,350, Good, Yes,250,30,Competitive
+320, 10/23/2024 01:58:10, Bedsheet, Cotton, RR Textiles, Surat, All time,180,210,260, Good, Yes,180,30,Competitive
+321, 10/23/2024 02:00:05, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes,220,30,Competitive
+322, 10/23/2024 02:02:10, Kurta, Rayon, Vasanth Textiles, Tirupur, Summer,340,380,450, Good, Yes,599,-219,Underpriced
+323, 10/23/2024 02:04:05, Handkerchief, Cotton, Sai Ram Fabrics, Tirupur, All time,20,25,35, Good, Yes,499,-474,Underpriced
+324, 10/23/2024 02:06:10, Saree, Silk, Sri Lakshmi Silks, Surat, Marriage,650,700,850, Good, Yes,670,30,Competitive
+325, 10/23/2024 02:08:15, Dupatta, Silk, Emco Textiles, Jetpur, All time,280,320,400, Good, Yes,290,30,Competitive
+326, 10/23/2024 02:10:10, Blouse, Cotton, Sathya Textiles, Pali, All time,70,90,120, Good, Yes,629,-539,Underpriced
+327, 10/23/2024 02:12:15, Pajamas, Cotton, Vimal Textiles, Ahmedabad, Summer,150,180,250, Good, Yes,649,-469,Underpriced
+328, 10/23/2024 02:14:10, Skirt, Chiffon, Ravi Textiles, Surat, All time,300,340,420, Good, Yes,849,-509,Underpriced
+329, 10/23/2024 02:16:15, Shirt, Linen, Sri Velavan Textiles, Erode, All time,250,280,350, Good, Yes,250,30,Competitive
+330, 10/23/2024 02:18:10, Bedsheet, Cotton, RR Textiles, Surat, All time,180,210,260, Good, Yes,686,-476,Underpriced
+331, 10/23/2024 02:20:05, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes,220,30,Competitive
+332, 10/23/2024 02:22:10, Kurta, Rayon, Vasanth Textiles, Tirupur, Summer,340,380,450, Good, Yes,2479,-2099,Underpriced
+333, 10/23/2024 02:24:05, Handkerchief, Cotton, Sai Ram Fabrics, Tirupur, All time,20,25,35, Good, Yes,699,-674,Underpriced
+334, 10/23/2024 02:26:10, Saree, Silk, Sri Lakshmi Silks, Surat, Marriage,650,700,850, Good, Yes,670,30,Competitive
+335, 10/23/2024 02:28:15, Dupatta, Silk, Emco Textiles, Jetpur, All time,280,320,400, Good, Yes,290,30,Competitive
+336, 10/23/2024 02:30:10, Blouse, Cotton, Sathya Textiles, Pali, All time,70,90,120, Good, Yes,784,-694,Underpriced
+337, 10/23/2024 02:32:15, Pajamas, Cotton, Vimal Textiles, Ahmedabad, Summer,150,180,250, Good, Yes,669,-489,Underpriced
+338, 10/23/2024 02:34:10, Skirt, Chiffon, Ravi Textiles, Surat, All time,300,340,420, Good, Yes,390,-50,Underpriced
+339, 10/23/2024 02:36:15, Shirt, Linen, Sri Velavan Textiles, Erode, All time,250,280,350, Good, Yes,250,30,Competitive
+340, 10/23/2024 02:38:10, Bedsheet, Cotton, RR Textiles, Surat, All time,180,210,260, Good, Yes,620,-410,Underpriced
+341, 10/23/2024 02:40:05, T-shirt, Cotton, Sri Velavan Textiles, Erode, All time,220,250,300, Good, Yes,220,30,Competitive
+342, 10/23/2024 02:42:10, Kurta, Rayon, Vasanth Textiles, Tirupur, Summer,340,250,420,Good,Yes,599,-349,Underpriced
+343, 10/22/2024 16:12:30, Stole, Silk, Trendy Textiles, Jaipur, All time,150,180,220, Good, Yes,1199,-1019,Underpriced
+344, 10/22/2024 16:14:05, Leggings, Cotton, Fashion Hub, Delhi, Daily,200,250,300, Good, Yes,220,30,Competitive
+345, 10/22/2024 16:16:14, Kurti, Rayon, Ethnic Styles, Surat, Casual,400,450,500, Good, Yes,2479,-2029,Underpriced
+346, 10/22/2024 16:18:30, Waistcoat, Wool, Royal Attire, Ahmedabad, Formal,700,800,900, Good, Yes,770,30,Competitive
+347, 10/22/2024 16:20:15, Cape, Chiffon, Modern Designs, Coimbatore, Party,350,400,450, Good, Yes,1999,-1599,Underpriced
+348, 10/22/2024 16:22:40, Trousers, Cotton, Everyday Wear, Bangalore, Casual,300,350,400, Good, Yes,1943,-1593,Underpriced
+349, 10/22/2024 16:24:25, Blazer, Linen, Classic Fit, Mumbai, Formal,1000,1100,1200, Good, Yes,3299,-2199,Underpriced
+350, 10/22/2024 16:26:10, Maxi Dress, Georgette, Summer Vibes, Chennai, All time,600,700,800, Good, Yes,499,201,Overpriced
+351, 10/22/2024 16:28:55, Nightgown, Satin, Dreamy Fabrics, Kolkata, Sleepwear,400,450,500, Good, Yes,779,-329,Underpriced
+352, 10/22/2024 16:30:45, Poncho, Wool, Winter Wear, Ludhiana, Winter,500,550,600, Good, Yes,520,30,Competitive
+353, 10/22/2024 16:32:30, Jumpsuit, Cotton, Fashion Forward, Jaipur, Casual,800,900,1000, Good, Yes,870,30,Competitive
+354, 10/22/2024 16:34:15, Cape, Velvet, Festive Looks, Surat, Party,700,800,900, Good, Yes,1999,-1199,Underpriced
+355, 10/22/2024 16:36:00, Shrug, Chiffon, Light Layers, Bangalore, Summer,250,300,350, Good, Yes,299,1,Competitive
+356, 10/22/2024 16:37:45, Dhoti, Cotton, Traditional Styles, Erode, Festival,600,650,700, Good, Yes,620,30,Competitive
+357, 10/22/2024 16:39:30, Cardigan, Wool, Cozy Knit, Pune, Winter,400,450,500, Good, Yes,999,-549,Underpriced
+358, 10/22/2024 16:41:15, Tunic, Linen, Breezy Fit, Coimbatore, Casual,300,350,400, Good, Yes,854,-504,Underpriced
+359, 10/22/2024 16:43:00, A-line Dress, Georgette, Elegant Fashion, Hyderabad, Formal,800,900,1000, Good, Yes,359,541,Overpriced
+360, 10/22/2024 16:44:45, Skirt, Satin, Stylish Flare, Kolkata, Party,500,600,700, Good, Yes,399,201,Overpriced
+361, 10/22/2024 16:46:30, Culottes, Cotton, Trendy Trousers, Chennai, Casual,400,450,500, Good, Yes,420,30,Competitive
+362, 10/22/2024 16:48:15, Sweatshirt, Polyester, Casual Comfort, Bangalore, Daily,300,350,400, Good, Yes,749,-399,Underpriced
+363, 10/22/2024 16:50:00, Peplum Top, Chiffon, Stylish Silhouette, Mumbai, Party,450,500,550, Good, Yes,470,30,Competitive
+364, 10/22/2024 16:51:45, Anarkali, Silk, Regal Look, Jaipur, Wedding,1200,1300,1400, Good, Yes,560,740,Overpriced
+365, 10/22/2024 16:53:30, T-shirt, Cotton, Casual Wear, Delhi, Daily,150,180,220, Good, Yes,150,30,Competitive
+366, 10/22/2024 16:55:15, Duster Coat, Wool, Fashion Layers, Surat, Winter,600,700,800, Good, Yes,379,321,Overpriced
+367, 10/22/2024 16:57:00, Kaftan, Rayon, Breezy Fit, Erode, Casual,500,550,600, Good, Yes,1499,-949,Underpriced
+368, 10/22/2024 16:58:45, Mini Skirt, Denim, Stylish Casual, Bangalore, Daily,400,450,500, Good, Yes,399,51,Overpriced
+369, 10/22/2024 17:00:30, Lingerie Set, Lace, Elegant Comfort, Kolkata, Sleepwear,700,800,900, Good, Yes,479,321,Overpriced
+370, 10/22/2024 17:02:15, Overcoat, Wool, Chic Winter, Mumbai, Winter,1200,1300,1400, Good, Yes,1270,30,Competitive
+371, 10/22/2024 17:04:00, Palazzo Pants, Linen, Fashion Forward, Coimbatore, Casual,500,600,700, Good, Yes,399,201,Overpriced
+372, 10/22/2024 17:05:45, Long Skirt, Georgette, Flowing Style, Hyderabad, Party,800,900,1000, Good, Yes,849,51,Overpriced
+373, 10/22/2024 17:07:30, Cropped Top, Cotton, Summer Style, Delhi, Casual,200,250,300, Good, Yes,220,30,Competitive
+374, 10/22/2024 17:09:15, Jumpsuit, Silk, Fashion Elegance, Surat, Wedding,900,1000,1100, Good, Yes,970,30,Competitive
+375, 10/22/2024 17:11:00, Wrap Dress, Chiffon, Stylish Look, Bangalore, Evening,700,800,900, Good, Yes,2479,-1679,Underpriced
+376, 10/22/2024 17:12:45, Puffer Jacket, Polyester, Winter Warmth, Pune, Winter,800,900,1000, Good, Yes,1599,-699,Underpriced
+377, 10/22/2024 17:14:30, Tunic Dress, Rayon, Everyday Wear, Chennai, Casual,500,600,700, Good, Yes,999,-399,Underpriced
+378, 10/22/2024 17:16:15, Bodycon Dress, Lycra, Party Glam, Kolkata, Evening,900,1000,1100, Good, Yes,799,201,Overpriced
+379, 10/22/2024 17:18:00, Cardigan, Cotton, Layering Essentials, Mumbai, Daily,400,450,500, Good, Yes,1599,-1149,Underpriced
+380, 10/22/2024 17:19:45, Kimono, Silk, Stylish Wrap, Delhi, Party,600,700,800, Good, Yes,499,201,Overpriced
+381, 10/22/2024 17:21:30, Long Sleeve Shirt, Cotton, Smart Casual, Bangalore, Daily,300,350,400, Good, Yes,2999,-2649,Underpriced
+382, 10/22/2024 17:23:15, Palazzo, Chiffon, Flowy Style, Surat, Evening,500,600,700, Good, Yes,379,221,Overpriced
+383, 10/22/2024 17:25:00, Cropped Hoodie, Polyester, Urban Fashion, Pune, Casual,400,450,500, Good, Yes,420,30,Competitive
+384, 10/22/2024 17:26:45, Shift Dress, Georgette, Effortless Style, Chennai, Casual,600,700,800, Good, Yes,2796,-2096,Underpriced
+385, 10/22/2024 17:28:30, Jodhpuri Suit, Silk, Traditional Elegance, Jaipur, Wedding,1500,1600,1700, Good, Yes,2839,-1239,Underpriced
+386, 10/22/2024 17:30:15, Layered Top, Cotton, Casual Comfort, Kolkata, Daily,300,350,400, Good, Yes,320,30,Competitive
+387, 10/22/2024 17:32:00, A-line Skirt, Linen, Summer Breeze, Mumbai, Casual,500,550,600, Good, Yes,419,131,Overpriced
+388, 10/22/2024 17:33:45, Sports Jacket, Polyester, Active Wear, Bangalore, Sports,800,900,1000, Good, Yes,799,101,Overpriced
+389, 10/22/2024 17:35:30, Ball Gown, Satin, Glamorous Nights, Hyderabad, Evening,2000,2100,2200, Good, Yes,1394,706,Overpriced
+390, 10/22/2024 17:37:15, Henley Shirt, Cotton, Casual Layer, Delhi, Daily,350,400,450, Good, Yes,499,-99,Underpriced
+391, 10/22/2024 17:39:00, Shrug, Wool, Warm Layer, Surat, Winter,500,600,700, Good, Yes,570,30,Competitive
+392, 10/22/2024 17:40:45, Pencil Skirt, Georgette, Office Chic, Coimbatore, Formal,800,900,1000, Good, Yes,399,501,Overpriced
+393, 10/22/2024 17:42:30, Trench Coat, Cotton, Classic Style, Mumbai, Winter,1200,1300,1400, Good, Yes,1899,-599,Underpriced
+394, 10/22/2024 17:44:15, Wrap Top, Chiffon, Stylish Fit, Chennai, Party,450,500,550, Good, Yes,899,-399,Underpriced
+395, 10/22/2024 17:46:00, Wide-Leg Trousers, Linen, Fashion Forward, Bangalore, Casual,600,700,800, Good, Yes,399,301,Overpriced
+396, 10/22/2024 17:47:45, Maxi Skirt, Rayon, Flowing Elegance, Jaipur, Formal,700,800,900, Good, Yes,699,101,Overpriced
+397, 10/22/2024 17:49:30, Tank Dress, Cotton, Summer Essential, Kolkata, Casual,400,450,500, Good, Yes,399,51,Overpriced
+398, 10/22/2024 17:51:15, Sports Leggings, Polyester, Active Lifestyle, Pune, Sports,500,600,700, Good, Yes,570,30,Competitive
+399, 10/22/2024 17:53:00, Midi Dress, Silk, Elegant Evening, Hyderabad, Formal,800,900,1000, Good, Yes,870,30,Competitive
+400, 10/22/2024 17:54:45, Flannel Shirt, Cotton, Cozy Style, Delhi, Casual,350,400,450, Good, Yes,370,30,Competitive
+401, 10/22/2024 17:56:30, Evening Jacket, Velvet, Elegant Layer, Surat, Evening,900,1000,1100, Good, Yes,499,501,Overpriced
+402, 10/22/2024 17:58:15, Lace Top, Chiffon, Feminine Charm, Bangalore, Party,500,600,700, Good, Yes,399,201,Overpriced
+403, 10/22/2024 18:00:00, Tracksuit, Cotton, Athleisure Wear, Mumbai, Sports,700,800,900, Good, Yes,999,-199,Underpriced
+404, 10/22/2024 18:01:45, Graphic Tee, Cotton, Fun Fashion, Chennai, Casual,200,250,300, Good, Yes,599,-349,Underpriced
+405, 10/22/2024 18:03:30, Cape Dress, Georgette, Stylish Flow, Kolkata, Evening,1000,1100,1200, Good, Yes,497,603,Overpriced
+406, 10/22/2024 18:05:15, Sports Shorts, Polyester, Active Comfort, Pune, Sports,250,300,350, Good, Yes,499,-199,Underpriced
+407, 10/22/2024 18:07:00, Midi Skirt, Linen, Classic Cut, Coimbatore, Casual,400,450,500, Good, Yes,399,51,Overpriced
+408, 10/22/2024 18:08:45, Silk Scarf, Silk, Luxury Accessory, Jaipur, All time,300,350,400, Good, Yes,758,-408,Underpriced
+409, 10/22/2024 18:10:30, Long Cardigan, Wool, Cozy Knit, Mumbai, Winter,700,800,900, Good, Yes,999,-199,Underpriced
+410, 10/22/2024 18:12:15, Cami Top, Satin, Elegant Layering, Chennai, Party,400,450,500, Good, Yes,420,30,Competitive
+411, 10/22/2024 18:14:00, Shift Dress, Cotton, Everyday Look, Delhi, Casual,500,600,700, Good, Yes,499,101,Overpriced
+412, 10/22/2024 18:15:45, Palazzo Set, Silk, Stylish Comfort, Surat, Wedding,1200,1300,1400, Good, Yes,1799,-499,Underpriced
+413, 10/22/2024 18:17:30, Faux Leather Jacket, Polyester, Edgy Style, Bangalore, Winter,900,1000,1100, Good, Yes,1799,-799,Underpriced
+414, 10/22/2024 18:19:15, Sweater Dress, Wool, Cozy Elegance, Hyderabad, Winter,800,900,1000, Good, Yes,870,30,Competitive
+415, 10/22/2024 18:21:00, Gym Leggings, Spandex, Flexible Fit, Pune, Sports,400,450,500, Good, Yes,379,71,Overpriced
+416, 10/22/2024 18:22:45, Pencil Dress, Georgette, Figure-Hugging, Kolkata, Evening,900,1000,1100, Good, Yes,970,30,Competitive
+417, 10/22/2024 18:24:30, Tulle Skirt, Cotton, Feminine Flair, Delhi, Party,500,600,700, Good, Yes,899,-299,Underpriced
+418, 10/22/2024 18:26:15, Oversized Hoodie, Cotton, Comfy Style, Mumbai, Casual,600,700,800, Good, Yes,649,51,Overpriced
+419, 10/22/2024 18:28:00, Maxi Kaftan, Silk, Resort Wear, Chennai, All time,800,900,1000, Good, Yes,1399,-499,Underpriced
+420, 10/22/2024 18:29:45, Utility Jacket, Denim, Casual Chic, Delhi, Daily,700,800,900, Good, Yes,1399,-599,Underpriced
+421, 10/22/2024 18:31:30, Tunic Blouse, Chiffon, Lightweight Layer, Surat, Casual,450,500,550, Good, Yes,377,123,Overpriced
+422, 10/22/2024 18:33:15, Hooded Sweatshirt, Cotton, Comfortable Fit, Bangalore, Sports,500,600,700, Good, Yes,1999,-1399,Underpriced
+423, 10/22/2024 18:35:00, Shift Top, Silk, Elegant Casual, Hyderabad, Evening,600,700,800, Good, Yes,670,30,Competitive
+424, 10/22/2024 18:36:45, Denim Skirt, Cotton, Classic Style, Pune, Casual,400,450,500, Good, Yes,699,-249,Underpriced
+425, 10/22/2024 18:38:30, Chino Pants, Linen, Smart Casual, Coimbatore, Daily,500,550,600, Good, Yes,919,-369,Underpriced
+426, 10/22/2024 18:40:15, Peasant Top, Rayon, Bohemian Vibe, Chennai, Casual,300,350,400, Good, Yes,320,30,Competitive
+427, 10/22/2024 18:42:00, Evening Gown, Satin, Formal Elegance, Kolkata, Wedding,2000,2100,2200, Good, Yes,799,1301,Overpriced
+428, 10/22/2024 18:43:45, Asymmetric Dress, Georgette, Fashion Forward, Mumbai, Evening,900,1000,1100, Good, Yes,899,101,Overpriced
+429, 10/22/2024 18:45:30, Longline Cardigan, Wool, Stylish Layer, Bangalore, Winter,800,900,1000, Good, Yes,1199,-299,Underpriced
+430, 10/22/2024 18:47:15, Skorts, Cotton, Fun and Functional, Surat, Casual,400,450,500, Good, Yes,420,30,Competitive
+431, 10/22/2024 18:49:00, Button-Up Shirt, Linen, Classic Fit, Delhi, Casual,350,400,450, Good, Yes,559,-159,Underpriced
+432, 10/22/2024 18:50:45, Floral Dress, Rayon, Summer Breeze, Hyderabad, Casual,500,600,700, Good, Yes,399,201,Overpriced
+433, 10/22/2024 18:52:30, Leather Pants, Faux Leather, Edgy Look, Pune, Evening,700,800,900, Good, Yes,599,201,Overpriced
+434, 10/22/2024 18:54:15, Bolero Jacket, Cotton, Short and Stylish, Chennai, Party,400,450,500, Good, Yes,420,30,Competitive
+435, 10/22/2024 18:56:00, Wrap Skirt, Georgette, Versatile Style, Kolkata, Casual,500,600,700, Good, Yes,399,201,Overpriced
+436, 10/22/2024 18:57:45, Crossover Top, Silk, Elegant Layering, Bangalore, Evening,600,700,800, Good, Yes,406,294,Overpriced
+437, 10/22/2024 18:59:30, Joggers, Cotton, Relaxed Fit, Mumbai, Casual,300,350,400, Good, Yes,731,-381,Underpriced
+438, 10/22/2024 19:01:15, Skater Dress, Chiffon, Fun and Flirty, Surat, Casual,600,700,800, Good, Yes,799,-99,Underpriced
+439, 10/22/2024 19:03:00, V-neck T-shirt, Cotton, Simple Style, Delhi, Daily,250,300,350, Good, Yes,270,30,Competitive
+440, 10/22/2024 19:04:45, Cargo Pants, Cotton, Outdoor Essential, Bangalore, Casual,600,700,800, Good, Yes,1943,-1243,Underpriced
+441, 10/22/2024 19:06:30, Cape Coat, Wool, Elegant Layer, Hyderabad, Winter,1200,1300,1400, Good, Yes,849,451,Overpriced
+442, 10/22/2024 19:08:15, Embroidered Blouse, Chiffon, Artistic Flair, Jaipur, Party,550,600,650, Good, Yes,831,-231,Underpriced
+443, 10/22/2024 19:10:00, Sleeveless Dress, Cotton, Summer Comfort, Pune, Casual,400,450,500, Good, Yes,799,-349,Underpriced
+444, 10/22/2024 19:11:45, Bomber Jacket, Polyester, Sporty Style, Chennai, Winter,700,800,900, Good, Yes,777,23,Competitive
+445, 10/22/2024 19:13:30, Pencil Pants, Cotton, Office Look, Kolkata, Formal,600,650,700, Good, Yes,599,51,Overpriced
+446, 10/22/2024 19:15:15, Pleated Skirt, Georgette, Flowing Fashion, Delhi, Evening,500,600,700, Good, Yes,799,-199,Underpriced
+447, 10/22/2024 19:17:00, Mock Neck Sweater, Wool, Cozy Winter, Mumbai, Winter,700,800,900, Good, Yes,770,30,Competitive
+448, 10/22/2024 19:18:45, Sweatpants, Cotton, Relaxed Fit, Bangalore, Casual,350,400,450, Good, Yes,299,101,Overpriced
+449, 10/22/2024 19:20:30, Kaftan Dress, Silk, Stylish and Comfortable, Surat, All time,800,900,1000, Good, Yes,870,30,Competitive
+450, 10/22/2024 19:22:15, High Waist Jeans, Denim, Trendy Fit, Hyderabad, Casual,600,700,800, Good, Yes,1199,-499,Underpriced
+451, 10/22/2024 19:24:00, Off-Shoulder Top, Cotton, Summer Style, Pune, Casual,300,350,400, Good, Yes,499,-149,Underpriced
+452, 10/22/2024 19:25:45, Longline Blazer, Linen, Office Chic, Coimbatore, Formal,800,900,1000, Good, Yes,2559,-1659,Underpriced
+453, 10/22/2024 19:27:30, Peplum Blouse, Silk, Evening Elegance, Chennai, Party,550,600,650, Good, Yes,629,-29,Competitive
+454, 10/22/2024 19:29:15, Cropped Jeans, Denim, Casual Essential, Kolkata, Daily,400,450,500, Good, Yes,779,-329,Underpriced
+455, 10/22/2024 19:31:00, Pinafore Dress, Cotton, Youthful Style, Bangalore, Casual,500,600,700, Good, Yes,2479,-1879,Underpriced
+456, 10/22/2024 19:32:45, Turtleneck Sweater, Wool, Winter Warmth, Jaipur, Winter,600,700,800, Good, Yes,670,30,Competitive
+457, 10/22/2024 19:34:30, Boho Dress, Rayon, Festival Vibes, Delhi, Casual,500,550,600, Good, Yes,2479,-1929,Underpriced
+458, 10/22/2024 19:36:15, Denim Shorts, Cotton, Summer Casual, Mumbai, Casual,350,400,450, Good, Yes,370,30,Competitive
+459, 10/22/2024 19:38:00, Flared Pants, Polyester, Retro Look, Surat, Party,600,700,800, Good, Yes,599,101,Overpriced
+460, 10/22/2024 19:39:45, Sheath Dress, Silk, Evening Glamour, Bangalore, Formal,900,1000,1100, Good, Yes,1649,-649,Underpriced
+461, 10/22/2024 19:41:30, Hooded Jacket, Polyester, Outdoor Comfort, Delhi, Winter,800,900,1000, Good, Yes,799,101,Overpriced
+462, 10/22/2024 19:43:15, Palazzo Pants, Cotton, Breezy Fit, Hyderabad, Casual,500,600,700, Good, Yes,399,201,Overpriced
+463, 10/22/2024 19:45:00, Off-Shoulder Dress, Rayon, Summer Chic, Chennai, Party,600,700,800, Good, Yes,2479,-1779,Underpriced
+464, 10/22/2024 19:46:45, Kimono Wrap, Silk, Elegant Layer, Kolkata, Evening,700,800,900, Good, Yes,770,30,Competitive
+465, 10/22/2024 19:48:30, Bodycon Dress, Polyester, Slim Fit, Pune, Evening,550,600,650, Good, Yes,499,101,Overpriced
+466, 10/22/2024 19:50:15, Jogger Pants, Cotton, Casual Comfort, Jaipur, Daily,400,450,500, Good, Yes,599,-149,Underpriced
+467, 10/22/2024 19:52:00, Blazer Dress, Wool, Winter Elegance, Mumbai, Formal,1200,1300,1400, Good, Yes,1619,-319,Underpriced
+468, 10/22/2024 19:53:45, Churidar, Silk, Traditional Wear, Delhi, Wedding,800,900,1000, Good, Yes,799,101,Overpriced
+469, 10/22/2024 19:55:30, Cold Shoulder Top, Chiffon, Trendy Style, Surat, Casual,400,450,500, Good, Yes,499,-49,Underpriced
+470, 10/22/2024 19:57:15, Pencil Dress, Cotton, Office Ready, Bangalore, Formal,650,700,750, Good, Yes,499,201,Overpriced
+471, 10/22/2024 19:59:00, Cargo Jacket, Polyester, Utility Fashion, Hyderabad, Winter,900,1000,1100, Good, Yes,569,431,Overpriced
+472, 10/22/2024 20:00:45, Tiered Skirt, Georgette, Layered Look, Pune, Evening,700,800,900, Good, Yes,699,101,Overpriced
+473, 10/22/2024 20:02:30, Boxy Top, Cotton, Casual Ease, Chennai, Daily,350,400,450, Good, Yes,349,51,Overpriced
+474, 10/22/2024 20:04:15, Mesh Dress, Polyester, Evening Glam, Kolkata, Party,1000,1100,1200, Good, Yes,1070,30,Competitive
+475, 10/22/2024 20:06:00, Flannel Pajamas, Cotton, Cozy Comfort, Mumbai, Winter,500,550,600, Good, Yes,795,-245,Underpriced
+476, 10/22/2024 20:07:45, Sequin Dress, Satin, Sparkling Look, Delhi, Party,1200,1300,1400, Good, Yes,2479,-1179,Underpriced
+477, 10/22/2024 20:09:30, Lace Blouse, Silk, Feminine Flair, Bangalore, Evening,600,650,700, Good, Yes,279,371,Overpriced
+478, 10/22/2024 20:11:15, Knit Sweater, Wool, Winter Warmth, Jaipur, Winter,800,900,1000, Good, Yes,870,30,Competitive
+479, 10/22/2024 20:13:00, Track Pants, Polyester, Sports Style, Hyderabad, Sports,400,450,500, Good, Yes,420,30,Competitive
+480, 10/22/2024 20:14:45, Crop Top, Cotton, Summer Essential, Surat, Casual,300,350,400, Good, Yes,284,66,Overpriced
+481, 10/22/2024 20:16:30, Maxi Dress, Georgette, Flowing Fashion, Pune, Evening,900,1000,1100, Good, Yes,559,441,Overpriced
+482, 10/22/2024 20:18:15, Bomber Vest, Polyester, Sporty Layer, Bangalore, Casual,600,650,700, Good, Yes,407,243,Overpriced
+483, 10/22/2024 20:20:00, Wide-Leg Pants, Linen, Elegant Look, Chennai, Casual,500,600,700, Good, Yes,1389,-789,Underpriced
+484, 10/22/2024 20:21:45, Romper, Rayon, Playful Style, Delhi, Casual,400,450,500, Good, Yes,498,-48,Underpriced
+485, 10/22/2024 20:23:30, Satin Blouse, Silk, Elegant Sheen, Kolkata, Evening,600,700,800, Good, Yes,629,71,Overpriced
+486, 10/22/2024 20:25:15, Jogging Suit, Polyester, Sport Comfort, Hyderabad, Sports,800,900,1000, Good, Yes,898,2,Competitive
+487, 10/22/2024 20:27:00, Shift Dress, Cotton, Casual Comfort, Pune, Daily,450,500,550, Good, Yes,2446,-1946,Underpriced
+488, 10/22/2024 20:28:45, Faux Fur Coat, Wool, Winter Luxury, Jaipur, Winter,1500,1600,1700, Good, Yes,699,901,Overpriced
+489, 10/22/2024 20:30:30, Tie-Dye Shirt, Cotton, Summer Vibes, Surat, Casual,300,350,400, Good, Yes,320,30,Competitive
+490, 10/22/2024 20:32:15, Linen Shorts, Linen, Lightweight Fit, Mumbai, Summer,350,400,450, Good, Yes,370,30,Competitive
+491, 10/22/2024 20:34:00, Embroidered Kurti, Cotton, Ethnic Wear, Delhi, All time,600,700,800, Good, Yes,1390,-690,Underpriced
+492, 10/22/2024 20:35:45, Silk Gown, Silk, Formal Elegance, Bangalore, Wedding,2000,2200,2400, Good, Yes,2328,-128,Underpriced
+493, 10/22/2024 20:37:30, Tapered Trousers, Polyester, Office Look, Hyderabad, Formal,550,600,650, Good, Yes,599,1,Competitive
+494, 10/22/2024 20:39:15, Off-Shoulder Blouse, Cotton, Trendy Style, Chennai, Party,400,450,500, Good, Yes,615,-165,Underpriced
+495, 10/22/2024 20:41:00, Dungarees, Denim, Playful Look, Kolkata, Casual,500,550,600, Good, Yes,520,30,Competitive
+496, 10/22/2024 20:42:45, Parka Jacket, Polyester, Winter Warmth, Pune, Winter,1200,1300,1400, Good, Yes,1799,-499,Underpriced
+497, 10/22/2024 20:44:30, Ruffle Skirt, Georgette, Layered Elegance, Surat, Evening,650,700,750, Good, Yes,699,1,Competitive
+498, 10/22/2024 20:46:15, V-Neck Sweater, Wool, Winter Casual, Mumbai, Winter,800,900,1000, Good, Yes,870,30,Competitive
+499, 10/22/2024 20:48:00, Cargo Shorts, Cotton, Outdoor Comfort, Jaipur, Casual,400,450,500, Good, Yes,499,-49,Underpriced
+500, 10/22/2024 20:49:45, Bell-Bottom Pants, Denim, Retro Style, Bangalore, Casual,600,700,800, Good, Yes,280,420,Overpriced
