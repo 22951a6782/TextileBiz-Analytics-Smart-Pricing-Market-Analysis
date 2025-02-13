@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TextileBiz Analytics</title>
+    
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    
+    <!-- GSAP Library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    
+    <!-- Styles -->
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            text-align: center;
+            padding: 50px;
+            color: white;
+            overflow: hidden;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3);
+            transition: transform 0.5s ease-in-out;
+            position: relative;
+        }
+
+        .container:hover {
+            transform: scale(1.05);
+        }
+
+        h1 {
+            color: #333;
+            font-size: 30px;
+            font-weight: bold;
+        }
+
+        p {
+            color: #666;
+            font-size: 18px;
+            line-height: 1.6;
+        }
+
+        .dashboard-btn {
+            background: linear-gradient(45deg, #ff7e5f, #feb47b);
+            color: white;
+            padding: 14px 28px;
+            border: none;
+            border-radius: 8px;
+            font-size: 18px;
+            cursor: pointer;
+            transition: transform 0.3s, box-shadow 0.3s;
+            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+        }
+
+        .dashboard-btn:hover {
+            background: linear-gradient(45deg, #ff5733, #ff914d);
+            transform: scale(1.1);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+        }
+
+        .particles {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            top: 0;
+            left: 0;
+        }
+
+        .particle {
+            position: absolute;
+            background: white;
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            opacity: 0.6;
+        }
+    </style>
+</head>
+<body>
+    <!-- Floating Particles -->
+    <div class="particles"></div>
+
+    <!-- Main Content -->
+    <div class="container mt-5 p-4 shadow-lg">
+        <h1 class="mb-3">Welcome to TextileBiz Analytics</h1>
+        <p class="lead">Discover smart pricing strategies with real-time insights and market trends.</p>
+        <button class="btn btn-lg dashboard-btn mt-3" onclick="openDashboard()">View Dashboard</button>
+    </div>
+
+    <!-- Scripts -->
+    <script>
+        function openDashboard() {
+            window.open("https://app.powerbi.com/groups/me/reports/2463b25e-78d9-4a68-b252-e803860fe98c?ctid=b45e253c-d9f0-4c81-b778-8d3197741240&pbi_source=linkShare", '_blank');
+        }
+
+        
+        function createParticles() {
+            const particleContainer = document.querySelector(".particles");
+            for (let i = 0; i < 30; i++) {
+                let particle = document.createElement("div");
+                particle.classList.add("particle");
+                particle.style.left = Math.random() * 100 + "%";
+                particle.style.top = Math.random() * 100 + "%";
+                particleContainer.appendChild(particle);
+                animateParticle(particle);
+            }
+        }
+
+        function animateParticle(particle) {
+            gsap.to(particle, {
+                y: "+=50",
+                opacity: 0,
+                duration: Math.random() * 3 + 2,
+                repeat: -1,
+                yoyo: true,
+                ease: "power1.inOut"
+            });
+        }
+
+        
+        document.addEventListener("DOMContentLoaded", createParticles);
+    </script>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
