@@ -131,7 +131,7 @@ This will render the *dashboard.html* template with a button linking to the *pub
 ## 📬 Contact & Support  
 *Developed by:* Pranitha Perala  
 - *Email:* peralapranitha17@gmail.com  
-- *LinkedIn:* [My Profile](https://github.com/22951a6782/RoomBuddy-JFS-Real-Time-Project)  
+- *LinkedIn:* [My Profile](https://github.com/22951a6782/TextileBiz-Analytics-Smart-Pricing-Market-Analysis)  
 
 ---
 
