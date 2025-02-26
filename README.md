@@ -32,8 +32,6 @@
 ---
 
 ## 📂 Folder Structure  
-
-bash
 TextileBiz-Analytics-Smart-Pricing-Market-Analysis/
 │── data/
 │   ├── Textile_data2.txt.csv  # Original raw dataset
@@ -63,7 +61,6 @@ TextileBiz-Analytics-Smart-Pricing-Market-Analysis/
 │── README.md  # Project documentation
 │── requirements.txt  # Python dependencies
 
----
 
 ## 📊 Power BI Dashboard  
 📌 The *Textile_Pricing_Dashboard.pbix* file in the dashboards/ folder provides:  
