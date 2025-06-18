@@ -130,6 +130,4 @@ This will render the *dashboard.html* template with a button linking to the *pub
 - *Email:* peralapranitha17@gmail.com  
 - *LinkedIn:* [My Profile](https://github.com/22951a6782/TextileBiz-Analytics-Smart-Pricing-Market-Analysis)  
 
----
 
-## 🚀 Transform Your Textile Business with Smart Pricing Strategies!
